@@ -1,0 +1,2844 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tvr-microthemer\n"
+"Report-Msgid-Bugs-To: sales@themeover.com\n"
+"POT-Creation-Date: 2015-06-11 22:15+0200\n"
+"PO-Revision-Date: 2015-09-05 14:26+0300\n"
+"Last-Translator: Ahrale <contact@atar4u.com>\n"
+"Language-Team: Ahrale | Atar4U.com <contact@atar4u.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ../includes/js-i18n.inc.php:5
+msgid "A folder with that name already exists. Please enter a unique name."
+msgstr "כבר קיימת תיקיה בשם זה. נא להזין שם ייחודי."
+
+#: ../includes/js-i18n.inc.php:6
+msgid "A selector with that name already exists. Please enter a unique name."
+msgstr "כבר קיים סלקטור בשם זה, נא להזין שם ייחודי."
+
+#: ../includes/js-i18n.inc.php:7
+#, php-format
+msgid "A %s with that name already exists. Please enter a unique name."
+msgstr "%s בשם זה כבר קיים. נא להזין שם ייחודי."
+
+#: ../includes/js-i18n.inc.php:8
+msgid "New Folder..."
+msgstr "תיקיה חדשה..."
+
+#: ../includes/js-i18n.inc.php:9
+msgid "Please enter a value for the folder name"
+msgstr "נא להזין ערך עבור שם התיקיה"
+
+#: ../includes/js-i18n.inc.php:10
+msgid "Please enter a value for the selector name"
+msgstr "נא להזין ערך עבור שם הסלקטור"
+
+#: ../includes/js-i18n.inc.php:11
+#, php-format
+msgid "Please enter a value for the %s name"
+msgstr "נא להזין ערך עבור שם ה %s"
+
+#: ../includes/js-i18n.inc.php:12
+msgid "load selector after moving"
+msgstr "לטעון את הסלקטור לאחר העברה"
+
+#: ../includes/js-i18n.inc.php:13
+#, fuzzy
+msgid ""
+"Please validate your purchase to unlock the full program! With the free "
+"trial you are limited to editing or creating 9 Selectors."
+msgstr ""
+"נא לאמת את הרכישה כדי לשחרר את הנעילה מהתוכנה המלאה! \\n עם גרסת הניסיון "
+"החינמית יש הגבלה לעריכת או יצירת 9 סלקטורים."
+
+#: ../includes/js-i18n.inc.php:14
+msgid "Please complete all media query fields or delete empty ones."
+msgstr "נא למלא את כל שדות שאילתת המדיה או למחוק את השדות הריקים."
+
+#: ../includes/js-i18n.inc.php:15
+msgid "Loading Style Options..."
+msgstr "טוען את אפשרויות העיצוב..."
+
+#: ../includes/js-i18n.inc.php:16
+msgid "Options failed to load"
+msgstr "הטעינה נכשלה"
+
+#: ../includes/js-i18n.inc.php:17
+msgid ""
+"The styling options failed to load into the interface. This sometimes "
+"happens if WordPress silently logs you out or because your \"nonce\" expires "
+"as a result of inactivity. Please refresh the page and try to log back in if "
+"necessary."
+msgstr ""
+"נכשלה טעינת האפשרויות לממשק. זה קורה לפעמים כאשר וורדפרס מנתק אותך, לפעמים "
+"כתוצאה מחוסר פעילות. נא לרענן את העמוד ולנסות להתחבר מחדש למערכת במקרה הצורך."
+
+#: ../includes/js-i18n.inc.php:18
+msgid "load selector before modifying"
+msgstr "לטעון את הסלקטור לפני השינוי"
+
+#: ../includes/js-i18n.inc.php:19
+msgid "load selector before iterating"
+msgstr "לטעון את הסלקטור לפני החזרה"
+
+#: ../includes/js-i18n.inc.php:20
+msgid "load selector before copying"
+msgstr "לטעון את הסלקטור פני ההעתקה"
+
+#: ../includes/js-i18n.inc.php:21
+msgid "sec rename, load styles discretely"
+msgstr "שינוי שם, לטעון את העיצובים באופן דיסקרטי"
+
+#: ../includes/js-i18n.inc.php:22
+msgid "sec copy, load styles discretely"
+msgstr "עותק יבש, העלאה דיסקרטית של העיצובים"
+
+#: ../includes/js-i18n.inc.php:23
+msgid "Quick Edit - Current Folder"
+msgstr "עריכה מהירה - תיקיה נוכחית"
+
+#: ../includes/js-i18n.inc.php:24
+msgid "Quick Edit - Current Selector"
+msgstr "עריכה מהירה - סלקטור נוכחי"
+
+#: ../includes/js-i18n.inc.php:25
+msgid "Loading Revisions Table..."
+msgstr "טוען טבלת טיוטות..."
+
+#: ../includes/js-i18n.inc.php:26
+msgid "Revisions failed to load"
+msgstr "טעינת הטיוטות נכשלה"
+
+#: ../includes/js-i18n.inc.php:27
+msgid "Retrieving CSS..."
+msgstr "אחזור CSS..."
+
+#: ../includes/js-i18n.inc.php:28
+msgid "CSS failed to load"
+msgstr "נכשלה טעינת ה CSS"
+
+#: ../includes/js-i18n.inc.php:29
+msgid "Loading Javascript..."
+msgstr "טעינת Javascript..."
+
+#: ../includes/js-i18n.inc.php:30
+msgid "Script failed to load"
+msgstr "טעינת הסקריפט נכשלה"
+
+#: ../includes/js-i18n.inc.php:31
+#, php-format
+msgid "The %s failed to load."
+msgstr "טעינת ה %s נכשלה"
+
+#: ../includes/js-i18n.inc.php:32
+msgid "Are you sure you want to reset all settings?"
+msgstr "בטוח שרוצה לאפס את כל ההגדרות?"
+
+#: ../includes/js-i18n.inc.php:33
+msgid "Resetting empty folders..."
+msgstr "איפוס תיקיות ריקות..."
+
+#: ../includes/js-i18n.inc.php:34
+msgid ""
+"Are you sure you want to clear all styles? Note: The page will reload, so "
+"please save any unsaved folders/selectors first (Use Control+S keyboard "
+"shortcut to save)."
+msgstr ""
+"בטוח שרוצה לנקות את כל העיצובים? הערה: העמוד ייטען מחדש, אז נא לבצע קודם "
+"שמירה של תיקיות/סלקטורים שלא נשמרו. נא להשתמש בקיצור המקלדת Control+S כדי "
+"לשמור."
+
+#: ../includes/js-i18n.inc.php:35
+msgid "Clearing styles..."
+msgstr "מנקה עיצובים..."
+
+#: ../includes/js-i18n.inc.php:36
+msgid "Are you sure you want to restore previous settings?"
+msgstr "בטוח שרוצה לשחזר הגדרות קודמות?"
+
+#: ../includes/js-i18n.inc.php:37
+msgid "Restoring settings..."
+msgstr "משחזר הגדרות..."
+
+#: ../includes/js-i18n.inc.php:38
+msgid "Saving Settings..."
+msgstr "שומר את ההגדרות..."
+
+#: ../includes/js-i18n.inc.php:39
+msgid "Save Error"
+msgstr "שגיאת שמירה"
+
+#: ../includes/js-i18n.inc.php:40
+msgid "Refreshing Frontend Styles..."
+msgstr "רענון עיצובי צד קדמי..."
+
+#: ../includes/js-i18n.inc.php:41
+msgid "Connection Error. Request Failed. Please Try again."
+msgstr "שגיאת התחברות. הבקשה נכשלה, נא לנסות שוב."
+
+#: ../includes/js-i18n.inc.php:42
+msgid "Requested URL not found."
+msgstr "כתובת ה URL המבוקשת לא נמצאה."
+
+#: ../includes/js-i18n.inc.php:43
+msgid "Internet Server Error."
+msgstr "שגיאת שרת."
+
+#: ../includes/js-i18n.inc.php:44
+msgid "Error.\\nParsing JSON Request failed."
+msgstr "שגיאה. ניתוח \\n בקשת JSON נכשל."
+
+#: ../includes/js-i18n.inc.php:45
+msgid "Request Timed out."
+msgstr "הבקשה פסקה"
+
+#: ../includes/js-i18n.inc.php:46
+msgid "Unknow Error."
+msgstr "שגיאה לא ידועה."
+
+#: ../includes/js-i18n.inc.php:47
+msgid "Sending error report..."
+msgstr "שולח דוח שגיאה..."
+
+#: ../includes/js-i18n.inc.php:48
+msgid "Error sending failed"
+msgstr "שליחת הדוח נכשלה"
+
+#: ../includes/js-i18n.inc.php:49
+msgid "Please select a design pack from the list"
+msgstr "נא לבחור חבילת עיצוב מן הרשימה"
+
+#: ../includes/js-i18n.inc.php:50
+#, fuzzy
+msgid ""
+"Please choose an import method (overwrite or merge with your current "
+"settings)"
+msgstr "נא לבחור שיטת יבוא (דריסה או מיזוג עם ההגדרות הקיימות"
+
+#: ../includes/js-i18n.inc.php:51
+#, php-format
+msgid "Importing Settings (%s)..."
+msgstr "מייבא הגדרות (%s)..."
+
+#: ../includes/js-i18n.inc.php:52
+msgid "Please select an existing settings pack or name a new one to export to"
+msgstr "נא לבחור חבילת הגדרות קיימת או לתת שם חדש לייצוא"
+
+#: ../includes/js-i18n.inc.php:53
+msgid "Please enter some CSS selector code e.g. #header"
+msgstr "נא להזין קוד CSS של סלקטור, למשל: #header"
+
+#: ../includes/js-i18n.inc.php:54
+msgid " (this selector does not target anything on the page)"
+msgstr "סלקטור זה אינו מוכוון לשום דבר בעמוד"
+
+#: ../includes/js-i18n.inc.php:55
+msgid ": value varies across multiple elements on the page"
+msgstr ": הערך שונה באלמנטים שונים בעמוד"
+
+#: ../includes/js-i18n.inc.php:56
+msgid ": style not applicable"
+msgstr ": העיצוב אינו ניתן ליישום"
+
+#: ../includes/js-i18n.inc.php:57
+msgid " (highest specificity)"
+msgstr " (הייחודיות הגבוהה ביותר)"
+
+#: ../includes/js-i18n.inc.php:58 ../includes/tvr-microthemer-ui.php:439
+msgid "Enter new or select a folder..."
+msgstr "להזין חדשה או לבחור תיקיה..."
+
+#: ../includes/js-i18n.inc.php:59
+msgid "Please select an existing folder or enter a new folder name"
+msgstr "נא לבחור בתיקיה קיימת או להזין או לההזין שם לתיקיה חדשה"
+
+#: ../includes/js-i18n.inc.php:60
+msgid "Loading WordPress Site..."
+msgstr "טוען אתר וורדפרס..."
+
+#: ../includes/js-i18n.inc.php:61
+msgid "Microthemer performed an auto-conversion of your input"
+msgstr ""
+
+#: ../includes/js-i18n.inc.php:62
+msgid ""
+"Note: values in the fields are rounded to 3 decimal places if necessary."
+msgstr ""
+
+#: ../includes/js-i18n.inc.php:68
+msgid "Theme Skin"
+msgstr "מעטפת תבנית"
+
+#: ../includes/js-i18n.inc.php:69
+msgid "Plugin Skin"
+msgstr "מעטפת תוסף"
+
+#: ../includes/js-i18n.inc.php:70
+msgid "Theme Scaffold"
+msgstr "פיגום תבנית"
+
+#: ../includes/js-i18n.inc.php:71
+msgid "Plugin Scaffold"
+msgstr "פיגום תוסף"
+
+#: ../includes/js-i18n.inc.php:72
+msgid "Please select a design pack zip file to upload"
+msgstr "נא לבחור בקובץ zip של חבילת עיצוב להעלאה"
+
+#: ../includes/js-i18n.inc.php:73
+msgid "Microthemer was not able to download the design pack"
+msgstr "Microthemer לא הצליח להוריד את חבילת העיצוב"
+
+#: ../includes/js-i18n.inc.php:74
+msgid "Are you sure you want to delete this design pack?"
+msgstr "בטוח שרוצה למחוק את חבילת העיצוב הזו?"
+
+#: ../includes/js-i18n.inc.php:75
+msgid "Microthemer was not able to delete the design pack"
+msgstr "Microthemer לא הצליח למחוק את חבילת העיצוב"
+
+#: ../includes/js-i18n.inc.php:82
+msgid ""
+"Warning: this theme links to external images. If someone else installs your "
+"zipped theme the background images won't show."
+msgstr ""
+"אזהרה: תבנית זו מקשרת לתמונות חיצוניות, אם מישהו אחר מתקין את התבנית המכווצת "
+"שלך תמונות הרקע לא תוצגנה."
+
+#: ../includes/js-i18n.inc.php:83
+msgid "Are you sure you want to delete this file?"
+msgstr "בטוח שרוצה למחוק את הקובץ הזה?"
+
+#: ../includes/js-i18n.inc.php:84
+msgid "This file could not be opened in a browser."
+msgstr "אי אפשר היה לפתוח את הקובץ הזה בדפדפן."
+
+#: ../includes/js-i18n.inc.php:85
+msgid "Delete failed"
+msgstr "המחיקה נכשלה"
+
+#: ../includes/js-i18n.inc.php:86
+msgid "Microthemer was not able to load: "
+msgstr "Microthemer לא הצליח להיטען:"
+
+#: ../includes/js-i18n.inc.php:92
+msgid "Element Type Targeting (very broad)"
+msgstr "מיקוד סוג אלמנט (רחב מאד)"
+
+#: ../includes/js-i18n.inc.php:93
+msgid "elements of type:"
+msgstr "אלמנטים של סוג:"
+
+#: ../includes/js-i18n.inc.php:94
+#, php-format
+msgid "all <%s> elements"
+msgstr "כל אלמנטי <%s>"
+
+#: ../includes/js-i18n.inc.php:95
+msgid "Element With Class Targeting"
+msgstr "אלמנט עם יעד מחלקה"
+
+#: ../includes/js-i18n.inc.php:96
+msgid "elements with a class of "
+msgstr "אלמנטים עם מחלקה של "
+
+#: ../includes/js-i18n.inc.php:97
+msgid "Parent With Class Targeting"
+msgstr "הורה עם יעד מחלקה"
+
+#: ../includes/js-i18n.inc.php:98
+#, php-format
+msgid ""
+"child <%1$s> elements inside parent <%2$s> container elements that have a "
+"class of <%3$s>"
+msgstr "אלמנטי בן <%1$s> בתוך מיכלי אלמנטי אב<%2$s> שיש להם מחלקה של <%3$s>"
+
+#: ../includes/js-i18n.inc.php:99
+msgid "Parent & Element With Class Targeting"
+msgstr "הורה ואלמנט עם יעד מחלקה"
+
+#: ../includes/js-i18n.inc.php:100
+#, php-format
+msgid ""
+"child <%1$s> elements that have a class of '%2$s' inside parent <%3$s> "
+"container elements that have a class of '%4$s'"
+msgstr ""
+"אלמנטים בנים <%1$s> עם מחלקת '%2$s' בתוך מיכלי אלמנטים שיש להם מחלקה של "
+"'%4$s'"
+
+#: ../includes/js-i18n.inc.php:101
+msgid "Element ID Targeting"
+msgstr "אלמנט עם יעד מזהה"
+
+#: ../includes/js-i18n.inc.php:102
+#, php-format
+msgid "<%1$s> element with a unique id of '%2$s'"
+msgstr "<%1$s> אלמנט עם מזהה ייחודי של '%2$s'"
+
+#: ../includes/js-i18n.inc.php:103
+msgid "Parent With ID Targeting"
+msgstr "הורה עם יעד מזהה"
+
+#: ../includes/js-i18n.inc.php:104
+#, php-format
+msgid ""
+"child <%1$s> elements inside a parent <%2$s> container element that has a "
+"unique id of '%3$s'"
+msgstr ""
+"אלמנטים בנים <%1$s> בתוך מיכלי אלמנט הורה <%2$s> שיש להם מזהה ייחודי של "
+"'%3$s\n"
+"'"
+
+#: ../includes/js-i18n.inc.php:105
+msgid "Parent With ID & Element With Class Targeting"
+msgstr "הורה עם מזהה ואלמנט עם יעד מחלקה"
+
+#: ../includes/js-i18n.inc.php:106
+#, php-format
+msgid ""
+"child <%1$s> elements that have a class of '%2$s' inside a parent <%3$s> "
+"container element that has a unique id of '%4$s'"
+msgstr ""
+"אלמנטים בנים <%1$s> עם מחלקה של '%2$s' במיכל אלמנט הורה שיש לו מזהה ייחודי "
+"של '%4$s'"
+
+#: ../includes/js-i18n.inc.php:107
+msgid "Parent & Element With ID Targeting"
+msgstr "הורה ואלמנט עם יעד מזהה"
+
+#: ../includes/js-i18n.inc.php:108
+#, php-format
+msgid ""
+"child <%1$s> element that has a unique id of '%2$s' inside a parent <%3$s> "
+"container element that has a unique id of '%4$s'"
+msgstr ""
+"אלמנט בן <%1$s> שיש לו מזהה ייחודי של '%2$s' בתוך מיכל אלמנט הורה <%3$s> שיש "
+"לו מזהה ייחודי של '%4$s'"
+
+#: ../includes/js-i18n.inc.php:109
+msgid "Update your jQuery! (1.9+)"
+msgstr "נא לעדכן את ה jQuery שלך! (1.9+)"
+
+#: ../includes/js-i18n.inc.php:110
+msgid ""
+"Your WordPress install is running a version of jQuery older than 1.9. This "
+"means Microthemer can't retrieve the existing computed CSS values elements "
+"on your web page. Please update to the latest version of WordPress (which "
+"should also update jQuery). If this doesn't help please check your code for "
+"any functions that deregister the default version of jQuery. You can ask "
+"Themeover to help you with this. Thanks."
+msgstr ""
+"התקנת הוורדפרס שלך מריצה גרסת jQuery ישנה מ 1.9. זה אומר ש Microthemer לא "
+"יכול לאחזר את ערכי ה CSS הקיימים בעמוד האתר. נא לעדכן לגרסה העדכנית של "
+"וורדפרס (שתעדכן גם את ה jQuery). אם זה לא עוזר, נא לבדוק את הקוד שלך "
+"לפונקציות שמנטרלות את רישום גרסת ה  jQuery שלך. אפשר לבקש עזרה לכך מ "
+"Themeover. תודה."
+
+#: ../includes/js-i18n.inc.php:111
+msgid "Highlighting Capped"
+msgstr ""
+
+#: ../includes/js-i18n.inc.php:112
+msgid ""
+"If your selector targets more than 20 elements on the page, Microthemer will "
+"only highlight and analyse the first 20 elements on the page. This is to "
+"avoid overworking your browser."
+msgstr ""
+
+#: ../includes/js-i18n.inc.php:113
+msgid ""
+"Navigating to the WP admin area from within a Microthemer preview is best "
+"avoided. Conceivably, you could end up editing a Microthemer interface from "
+"within a Microthemer interface. Think of the universe."
+msgstr ""
+"יש להימנע מניווט ללוח הבקרה מתוך Microthemer. מתקבל על הדעת שתסיים בעריכת "
+"המימשק של Microthemer מתוך ממשק Microthemer. לחשוב על היקום."
+
+#: ../includes/js-i18n.inc.php:114
+msgid "the 'Close Wizard' link in the top toolbar."
+msgstr "קישור 'סגירת האשף' בסרגל העליון."
+
+#: ../includes/js-i18n.inc.php:115
+msgid "the icon with horizontal green lines in the top toolbar."
+msgstr "הצלמית עם הקווים הירוקים הסרגל העליון."
+
+#: ../includes/property-options.inc.php:14
+msgid "Family"
+msgstr "משפחה"
+
+#: ../includes/property-options.inc.php:15
+msgid "Font Family"
+msgstr "משפחת גופנים"
+
+#: ../includes/property-options.inc.php:16
+#: ../includes/property-options.inc.php:17
+msgid "Font"
+msgstr "גופן"
+
+#: ../includes/property-options.inc.php:68
+msgid "Google Font"
+msgstr "גופן Google"
+
+#: ../includes/property-options.inc.php:69
+msgid "Google Font Family"
+msgstr "משפחת גופני Google"
+
+#: ../includes/property-options.inc.php:80
+#: ../includes/property-options.inc.php:81
+#: ../includes/property-options.inc.php:551
+#: ../includes/property-options.inc.php:630
+#: ../includes/property-options.inc.php:663
+msgid "Color"
+msgstr "צבע"
+
+#: ../includes/property-options.inc.php:92
+#: ../includes/property-options.inc.php:765 ../tvr-microthemer.php:1323
+msgid "Size"
+msgstr "גודל"
+
+#: ../includes/property-options.inc.php:93
+msgid "Font Size"
+msgstr "גודל הגופן"
+
+#: ../includes/property-options.inc.php:111
+#: ../includes/property-options.inc.php:112
+msgid "Line Height"
+msgstr "גובה השורה"
+
+#: ../includes/property-options.inc.php:129
+msgid "Weight"
+msgstr "משקל"
+
+#: ../includes/property-options.inc.php:130
+msgid "Font Weight"
+msgstr "משקל הגופן"
+
+#: ../includes/property-options.inc.php:166
+msgid "Style"
+msgstr "עיצוב"
+
+#: ../includes/property-options.inc.php:167
+msgid "Font Style"
+msgstr "עיצוב הגופן"
+
+#: ../includes/property-options.inc.php:185
+msgid "Decoration"
+msgstr "קישוט טקסט"
+
+#: ../includes/property-options.inc.php:186
+msgid "Text Decoration"
+msgstr "קישוט טקסט"
+
+#: ../includes/property-options.inc.php:207
+msgid "Variant"
+msgstr "גרסת גופן"
+
+#: ../includes/property-options.inc.php:208
+msgid "Font Variant"
+msgstr "גרסת גופן"
+
+#: ../includes/property-options.inc.php:227
+#: ../includes/property-options.inc.php:228
+msgid "Text Align"
+msgstr "יישור טקסט"
+
+#: ../includes/property-options.inc.php:229
+#: ../includes/property-options.inc.php:230
+msgid "Text"
+msgstr "טקסט"
+
+#: ../includes/property-options.inc.php:250
+msgid "Indent"
+msgstr "הזחה"
+
+#: ../includes/property-options.inc.php:251
+msgid "Text Indent"
+msgstr "הזחת טקסט"
+
+#: ../includes/property-options.inc.php:269
+msgid "Transform"
+msgstr "טרנספורמציה"
+
+#: ../includes/property-options.inc.php:270
+msgid "Text Transform"
+msgstr "טרנספורמציית גופן"
+
+#: ../includes/property-options.inc.php:291
+#: ../includes/property-options.inc.php:297
+msgid "Word Spacing"
+msgstr "מרווח מילים"
+
+#: ../includes/property-options.inc.php:307
+#: ../includes/property-options.inc.php:308
+msgid "Letter Spacing"
+msgstr "מרווח אותיות"
+
+#: ../includes/property-options.inc.php:322
+#: ../includes/property-options.inc.php:323
+msgid "Word Wrap"
+msgstr "מעטפת מילה"
+
+#: ../includes/property-options.inc.php:340
+#: ../includes/property-options.inc.php:341
+msgid "White Space"
+msgstr "מרווח לבן"
+
+#: ../includes/property-options.inc.php:364
+msgid "Direction"
+msgstr "כיוון"
+
+#: ../includes/property-options.inc.php:365
+msgid "Text Direction"
+msgstr "כיוון טקסט"
+
+#: ../includes/property-options.inc.php:381
+#: ../includes/property-options.inc.php:382
+#, fuzzy
+msgid "Vertical Align"
+msgstr "יישור טקסט"
+
+#: ../includes/property-options.inc.php:416
+msgid "Type"
+msgstr "סוג"
+
+#: ../includes/property-options.inc.php:417
+msgid "List Style Type"
+msgstr "סוג סגנון רשימה"
+
+#: ../includes/property-options.inc.php:418
+#: ../includes/property-options.inc.php:419
+msgid "List"
+msgstr "רשימה"
+
+#: ../includes/property-options.inc.php:463
+#: ../includes/property-options.inc.php:677
+msgid "Image"
+msgstr "תמונה"
+
+#: ../includes/property-options.inc.php:464
+msgid "List Style Image"
+msgstr "תמונת סגנון רשימה"
+
+#: ../includes/property-options.inc.php:481
+#: ../includes/property-options.inc.php:694
+#: ../includes/property-options.inc.php:1610
+#: ../includes/property-options.inc.php:1611
+#: ../includes/property-options.inc.php:1612
+#: ../includes/property-options.inc.php:1613
+msgid "Position"
+msgstr "מיקום"
+
+#: ../includes/property-options.inc.php:482
+msgid "List Style Position"
+msgstr "מיקום סגנון הרשימה"
+
+#: ../includes/property-options.inc.php:500
+#: ../includes/property-options.inc.php:564
+msgid "X-Offset"
+msgstr "קיזוז X"
+
+#: ../includes/property-options.inc.php:501
+#, fuzzy
+msgid "Text Shadow X-offset"
+msgstr "קיזוז אופקי של צל טקסט"
+
+#: ../includes/property-options.inc.php:502
+msgid "Shadow"
+msgstr "הצללה"
+
+#: ../includes/property-options.inc.php:503
+msgid "Text Shadow"
+msgstr "הצללת טקסט"
+
+#: ../includes/property-options.inc.php:518
+#: ../includes/property-options.inc.php:581
+msgid "Y-Offset"
+msgstr "קיזוז Y"
+
+#: ../includes/property-options.inc.php:519
+#, fuzzy
+msgid "Text Shadow Y-offset"
+msgstr "קיזוז אופקי של צל טקסט"
+
+#: ../includes/property-options.inc.php:534
+#: ../includes/property-options.inc.php:598
+msgid "Blur"
+msgstr "טשטוש"
+
+#: ../includes/property-options.inc.php:535
+msgid "Text Shadow Blur"
+msgstr "טשטוש הצללת טקסט"
+
+#: ../includes/property-options.inc.php:552
+msgid "Text Shadow Color"
+msgstr "צבע צל טקסט"
+
+#: ../includes/property-options.inc.php:565
+msgid "Box Shadow x-offset"
+msgstr "קיזוז אופקי של צל תיבה"
+
+#: ../includes/property-options.inc.php:566
+msgid "Box Shadow"
+msgstr "הצללת תיבה"
+
+#: ../includes/property-options.inc.php:582
+msgid "Box Shadow y-offset"
+msgstr "קיזוז אנכי של צל תיבה"
+
+#: ../includes/property-options.inc.php:599
+msgid "Box Shadow Blur"
+msgstr "טשטוש הצללת תיבה"
+
+#: ../includes/property-options.inc.php:614
+msgid "Spread"
+msgstr ""
+
+#: ../includes/property-options.inc.php:615
+#, fuzzy
+msgid "Box Shadow Spread"
+msgstr "טשטוש הצללת תיבה"
+
+#: ../includes/property-options.inc.php:631
+msgid "Box Shadow Color"
+msgstr "צבע צל תיבה"
+
+#: ../includes/property-options.inc.php:643
+#, fuzzy
+msgid "Inset"
+msgstr "לא מוגדר: "
+
+#: ../includes/property-options.inc.php:644
+#, fuzzy
+msgid "Box Shadow Inset"
+msgstr "קיזוז אופקי של צל תיבה"
+
+#: ../includes/property-options.inc.php:664
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: ../includes/property-options.inc.php:665
+#: ../includes/property-options.inc.php:666
+msgid "Background"
+msgstr "רקע"
+
+#: ../includes/property-options.inc.php:678
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: ../includes/property-options.inc.php:695
+msgid "Background Position"
+msgstr "מיקום הרקע"
+
+#: ../includes/property-options.inc.php:727
+msgid "Repeat"
+msgstr "חזרה"
+
+#: ../includes/property-options.inc.php:728
+msgid "Background Repeat"
+msgstr "חזרת רקע"
+
+#: ../includes/property-options.inc.php:748
+msgid "Attachment"
+msgstr "קובץ מצורף"
+
+#: ../includes/property-options.inc.php:749
+msgid "Background Attachment"
+msgstr "קובץ מצורף של הרקע"
+
+#: ../includes/property-options.inc.php:766
+msgid "Background Size"
+msgstr "גודל הרקע"
+
+#: ../includes/property-options.inc.php:788
+msgid "Clip"
+msgstr "קליפ"
+
+#: ../includes/property-options.inc.php:789
+msgid "Background Clip"
+msgstr "קליפ רקע"
+
+#: ../includes/property-options.inc.php:822
+#: ../includes/property-options.inc.php:823
+#: ../includes/property-options.inc.php:825
+msgid "Width"
+msgstr "רוחב"
+
+#: ../includes/property-options.inc.php:824
+msgid "Dimensions"
+msgstr "מידות"
+
+#: ../includes/property-options.inc.php:844
+#: ../includes/property-options.inc.php:902
+msgid "Min"
+msgstr "מינימום"
+
+#: ../includes/property-options.inc.php:845
+msgid "Min Width"
+msgstr "רוחב מינימלי"
+
+#: ../includes/property-options.inc.php:862
+#: ../includes/property-options.inc.php:922
+msgid "Max"
+msgstr "מקסימום"
+
+#: ../includes/property-options.inc.php:863
+msgid "Max Width"
+msgstr "רוחב מירבי"
+
+#: ../includes/property-options.inc.php:880
+#: ../includes/property-options.inc.php:881
+#: ../includes/property-options.inc.php:883
+msgid "Height"
+msgstr "גובה"
+
+#: ../includes/property-options.inc.php:903
+msgid "Min Height"
+msgstr "גובה מינימלי"
+
+#: ../includes/property-options.inc.php:923
+msgid "Max Height"
+msgstr "גובה מירבי"
+
+#: ../includes/property-options.inc.php:942
+#: ../includes/property-options.inc.php:943
+msgid "Box Sizing"
+msgstr "מידות תיבה"
+
+#: ../includes/property-options.inc.php:964
+#: ../includes/property-options.inc.php:1044
+#: ../includes/property-options.inc.php:1125
+#: ../includes/property-options.inc.php:1179
+#: ../includes/property-options.inc.php:1255
+#: ../includes/property-options.inc.php:1634
+msgid "Top"
+msgstr "למעלה"
+
+#: ../includes/property-options.inc.php:965
+msgid "Padding Top"
+msgstr "מרווח עליון"
+
+#: ../includes/property-options.inc.php:966
+msgid "Padding & Margin"
+msgstr "מרווח ושוליים"
+
+#: ../includes/property-options.inc.php:967
+msgid "Padding"
+msgstr "מרווח"
+
+#: ../includes/property-options.inc.php:986
+#: ../includes/property-options.inc.php:1066
+#: ../includes/property-options.inc.php:1140
+#: ../includes/property-options.inc.php:1196
+#: ../includes/property-options.inc.php:1278
+#: ../includes/property-options.inc.php:1673
+msgid "Right"
+msgstr "ימין"
+
+#: ../includes/property-options.inc.php:987
+msgid "Padding Right"
+msgstr "מרווח ימין"
+
+#: ../includes/property-options.inc.php:1005
+#: ../includes/property-options.inc.php:1085
+#: ../includes/property-options.inc.php:1153
+#: ../includes/property-options.inc.php:1211
+#: ../includes/property-options.inc.php:1300
+#: ../includes/property-options.inc.php:1646
+msgid "Bottom"
+msgstr "למטה"
+
+#: ../includes/property-options.inc.php:1006
+msgid "Padding Bottom"
+msgstr "מרווח תחתון"
+
+#: ../includes/property-options.inc.php:1024
+#: ../includes/property-options.inc.php:1104
+#: ../includes/property-options.inc.php:1166
+#: ../includes/property-options.inc.php:1226
+#: ../includes/property-options.inc.php:1322
+#: ../includes/property-options.inc.php:1659
+msgid "Left"
+msgstr "שמאל"
+
+#: ../includes/property-options.inc.php:1025
+msgid "Padding Left"
+msgstr "מרווח שמאל"
+
+#: ../includes/property-options.inc.php:1045
+msgid "Margin Top"
+msgstr "שוליים עליונים"
+
+#: ../includes/property-options.inc.php:1046
+msgid "Margin"
+msgstr "שוליים"
+
+#: ../includes/property-options.inc.php:1067
+msgid "Margin Right"
+msgstr "שוליים ימניים"
+
+#: ../includes/property-options.inc.php:1086
+msgid "Margin Bottom"
+msgstr "שוליים תחתונים"
+
+#: ../includes/property-options.inc.php:1105
+msgid "Margin Left"
+msgstr "שוליים שמאליים"
+
+#: ../includes/property-options.inc.php:1126
+msgid "Border Top Color"
+msgstr "צבע מסגרת עליונה"
+
+#: ../includes/property-options.inc.php:1127
+msgid "Border"
+msgstr "מסגרת"
+
+#: ../includes/property-options.inc.php:1128
+msgid "Border Color"
+msgstr "צבע המסגרת"
+
+#: ../includes/property-options.inc.php:1141
+msgid "Border Right Color"
+msgstr "צבע מסגרת ימין"
+
+#: ../includes/property-options.inc.php:1154
+msgid "Border Bottom Color"
+msgstr "צבע מסגרת תחתונה"
+
+#: ../includes/property-options.inc.php:1167
+msgid "Border Left Color"
+msgstr "צבע מסגרת שמאל"
+
+#: ../includes/property-options.inc.php:1180
+msgid "Border Top Width"
+msgstr "עובי מסגרת עליונה"
+
+#: ../includes/property-options.inc.php:1181
+msgid "Border Width"
+msgstr "עובי המסגרת"
+
+#: ../includes/property-options.inc.php:1197
+msgid "Border Right Width"
+msgstr "עובי מסגרת ימין"
+
+#: ../includes/property-options.inc.php:1212
+msgid "Border Bottom Width"
+msgstr "עובי מסגרת תחתונה"
+
+#: ../includes/property-options.inc.php:1227
+msgid "Border Left Width"
+msgstr "עובי מסגרת שמאל"
+
+#: ../includes/property-options.inc.php:1256
+msgid "Border Top Style"
+msgstr "עיצוב מסגרת עליונה"
+
+#: ../includes/property-options.inc.php:1257
+msgid "Border Style"
+msgstr "עיצוב מסגרת"
+
+#: ../includes/property-options.inc.php:1279
+msgid "Border Right Style"
+msgstr "עיצוב מסגרת ימין"
+
+#: ../includes/property-options.inc.php:1301
+msgid "Border Bottom Style"
+msgstr "עיצוב מסגרת תחתונה"
+
+#: ../includes/property-options.inc.php:1323
+msgid "Border Left Style"
+msgstr "עיצוב מסגרת שמאל"
+
+#: ../includes/property-options.inc.php:1347
+msgid "Top Left"
+msgstr "שמאל למעלה"
+
+#: ../includes/property-options.inc.php:1348
+msgid "Top Left Border Radius"
+msgstr "רדיוס המסגרת בצד שמאל למעלה"
+
+#: ../includes/property-options.inc.php:1349
+msgid "Border Radius"
+msgstr "רדיוס המסגרת"
+
+#: ../includes/property-options.inc.php:1365
+msgid "Top Right"
+msgstr "ימין למעלה"
+
+#: ../includes/property-options.inc.php:1366
+msgid "Top Right Border Radius"
+msgstr "רדיוס המסגרת בצד ימין למעלה"
+
+#: ../includes/property-options.inc.php:1381
+msgid "Bottom Right"
+msgstr "ימין למטה"
+
+#: ../includes/property-options.inc.php:1382
+msgid "Bottom Right Border Radius"
+msgstr "רדיוס המסגרת בצד שמאל למטה"
+
+#: ../includes/property-options.inc.php:1397
+msgid "Bottom Left"
+msgstr "שמאל למטה"
+
+#: ../includes/property-options.inc.php:1398
+msgid "Bottom Left Border Radius"
+msgstr "רדיוס המסגרת בצד שמאל למטה"
+
+#: ../includes/property-options.inc.php:1414
+#: ../includes/property-options.inc.php:1415
+msgid "Display"
+msgstr "תצוגה"
+
+#: ../includes/property-options.inc.php:1416
+#: ../includes/property-options.inc.php:1417
+msgid "Behaviour"
+msgstr "התנהגות"
+
+#: ../includes/property-options.inc.php:1466
+#: ../includes/property-options.inc.php:1467
+msgid "Overflow"
+msgstr "גלישה"
+
+#: ../includes/property-options.inc.php:1489
+#: ../includes/property-options.inc.php:1490
+msgid "Overflow X"
+msgstr "גלישה אופקית"
+
+#: ../includes/property-options.inc.php:1508
+#: ../includes/property-options.inc.php:1509
+msgid "Overflow Y"
+msgstr "גלישה אנכית"
+
+#: ../includes/property-options.inc.php:1528
+#: ../includes/property-options.inc.php:1529
+msgid "Visibility"
+msgstr "נראות"
+
+#: ../includes/property-options.inc.php:1548
+#: ../includes/property-options.inc.php:1549
+msgid "Cursor"
+msgstr "סמן"
+
+#: ../includes/property-options.inc.php:1597
+#: ../includes/property-options.inc.php:1598
+msgid "Opacity"
+msgstr "אטימות"
+
+#: ../includes/property-options.inc.php:1635
+msgid "Top (Position)"
+msgstr "למעלה (מיקום)"
+
+#: ../includes/property-options.inc.php:1647
+msgid "Bottom (Position)"
+msgstr "למטה (מיקום)"
+
+#: ../includes/property-options.inc.php:1660
+msgid "Left (Position)"
+msgstr "שמאל (מיקום)"
+
+#: ../includes/property-options.inc.php:1674
+msgid "Right (Position)"
+msgstr "ימין (מיקום)"
+
+#: ../includes/property-options.inc.php:1686
+#: ../includes/property-options.inc.php:1687
+msgid "Z-index"
+msgstr "מדד Z"
+
+#: ../includes/property-options.inc.php:1696
+#: ../includes/property-options.inc.php:1697
+msgid "Float"
+msgstr "ציפה"
+
+#: ../includes/property-options.inc.php:1716
+#: ../includes/property-options.inc.php:1717
+msgid "Clear"
+msgstr "ניקוי"
+
+#: ../includes/property-options.inc.php:1739
+msgid "Angle"
+msgstr "זווית"
+
+#: ../includes/property-options.inc.php:1740
+msgid "Gradient Angle"
+msgstr "זווית צבע מדורג"
+
+#: ../includes/property-options.inc.php:1741
+#: ../includes/property-options.inc.php:1742
+msgid "Gradient"
+msgstr "צבע מדורג"
+
+#: ../includes/property-options.inc.php:1774
+msgid "Gradient A"
+msgstr "צבע 1"
+
+#: ../includes/property-options.inc.php:1787
+msgid "Gradient B"
+msgstr "צבע 2"
+
+#: ../includes/property-options.inc.php:1799
+msgid "B Position"
+msgstr "מיקום 2"
+
+#: ../includes/property-options.inc.php:1800
+msgid "Gradient B Position"
+msgstr "מיקום צבע 2"
+
+#: ../includes/property-options.inc.php:1816
+msgid "Gradient C"
+msgstr "צבע 3"
+
+#: ../includes/resolve-input-fields.inc.php:211
+msgid "Hover over the rows to highlight the individual elements on the page"
+msgstr "רחף מעל לשורות כדי לסמן את האלמנטים המשוייכים להם בעמוד"
+
+#: ../includes/resolve-input-fields.inc.php:211
+msgid "Page Analysis"
+msgstr "סטטיסטיקת עמוד"
+
+#: ../includes/resolve-input-fields.inc.php:216
+msgid "Value"
+msgstr "ערך"
+
+#: ../includes/tvr-manage-micro-themes.php:67
+#: ../includes/tvr-manage-micro-themes.php:76
+#: ../includes/tvr-manage-micro-themes.php:86 ../tvr-microthemer.php:2953
+#, php-format
+msgid "Edit %s"
+msgstr "עריכת %s"
+
+#: ../includes/tvr-manage-micro-themes.php:70
+#, php-format
+msgid "Delete %s"
+msgstr "מחיקת %s"
+
+#: ../includes/tvr-manage-micro-themes.php:73
+#, php-format
+msgid "Download %s"
+msgstr "הורדת %s"
+
+#: ../includes/tvr-manage-micro-themes.php:79
+#, php-format
+msgid "Import %s into the Microthemer interface"
+msgstr "יבוא %s לממשק של Microthemer"
+
+#: ../includes/tvr-manage-micro-themes.php:96
+#: ../includes/tvr-manage-single.php:84
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../includes/tvr-manage-single.php:51
+msgid "&laquo; Back to all packs"
+msgstr ""
+
+#: ../includes/tvr-manage-single.php:91
+msgid "Description"
+msgstr "תיאור"
+
+#: ../includes/tvr-manage-single.php:96
+msgid "No Description Available"
+msgstr "אין תיאור זמין"
+
+#: ../includes/tvr-manage-single.php:97
+msgid "Optionally enter a description using the \"Info\" form below."
+msgstr "באפשרותך להזין תיאור באמצעות טופס ה\"מידע\" שלהלן."
+
+#: ../includes/tvr-manage-single.php:103
+msgid "Tags"
+msgstr "תגיות"
+
+#: ../includes/tvr-manage-single.php:113
+msgid "Deactivate"
+msgstr "כיבוי"
+
+#: ../includes/tvr-manage-single.php:118
+msgid "Activate"
+msgstr "הפעלה"
+
+#: ../includes/tvr-manage-single.php:166 ../includes/tvr-manage-single.php:228
+#: ../includes/tvr-manage-single.php:346
+msgid "About This Feature"
+msgstr "אודות תכונה זו"
+
+#: ../includes/tvr-manage-single.php:168
+#, php-format
+msgid ""
+"If you plan to make your design pack available for sale or free download on "
+"themeover.com, please fill out all of the form fields on the right. Hover "
+"your mouse over the field labels to view instructions for each field. You "
+"will also need to upload a thumbnail image on the %1$s and (optionally) some "
+"instructions for the end user on the %2$s"
+msgstr ""
+"כדי להפוך את חבילת העיצוב שלך לזמינה למכירה או להורדב ב themeover.com, נא "
+"למלא את שדות הטופס. ריחוף עם העכבר מעל לתוויות השדות יציג הנחיות עבור כל "
+"שדה. יש צורך גם בהעלאת תמונה ממוזערת ב  %1$s ואפשר גם להוסיף הנחיות למשתמש ב "
+"%2$s"
+
+#: ../includes/tvr-manage-single.php:169 ../includes/tvr-manage-single.php:175
+msgid "Attachments tab"
+msgstr "לשונית קבצים משוייכים"
+
+#: ../includes/tvr-manage-single.php:170
+msgid "Instructions tab"
+msgstr "לשונית הנחיות"
+
+#: ../includes/tvr-manage-single.php:172
+#, fuzzy
+msgid ""
+"The information you enter will update the meta.txt files in your design "
+"pack. Themeover will make use of this information if you submit your design "
+"pack for inclusion in our marketplace."
+msgstr ""
+"המידע המוזן יעדכן את קבצי meta.txt בחבילת העיצוב שלך. Themeover תשתמש במידע "
+"זה אם חבילת העיצוב שלך תוגש כדי להיכלל בשוק שלנו."
+
+#: ../includes/tvr-manage-single.php:174
+#, php-format
+msgid ""
+"It's not necessary to fill out these fields if don't wish to share your "
+"design pack. But you may wish to upload a thumbnail image to replace the "
+"\"No Screenshot\" placeholder on the %s."
+msgstr ""
+"אין צורך למלא שדות אלו אם אינך רוצה לחלוק את חבילת העיצוב, אבל אפשר להעלות "
+"תמונה כדי להחליף את מציין המיקום \"אין תמונה\" ב %s."
+
+#: ../includes/tvr-manage-single.php:178
+msgid "Design Pack Meta Info"
+msgstr "מידע תיאור חבילת העיצוב"
+
+#: ../includes/tvr-manage-single.php:183
+msgid "Type of Design Pack: "
+msgstr "סוג חבילת העיצוב:"
+
+#: ../includes/tvr-manage-single.php:188
+msgid "Design Pack Name: "
+msgstr "שם חבילת העיצוב:"
+
+#: ../includes/tvr-manage-single.php:193
+msgid "allowed characters: a-z, A-Z, 0-9, -, _"
+msgstr "תווים מותרים: a-z, A-Z, 0-9, -, _"
+
+#: ../includes/tvr-manage-single.php:194
+msgid "Version: "
+msgstr "גרסה:"
+
+#: ../includes/tvr-manage-single.php:198
+msgid "Description: "
+msgstr "תיאור:"
+
+#: ../includes/tvr-manage-single.php:201
+msgid "Author: "
+msgstr "מחבר:"
+
+#: ../includes/tvr-manage-single.php:204
+msgid "Author URI: "
+msgstr "כתובת URI של המחבר: "
+
+#: ../includes/tvr-manage-single.php:207
+msgid "Target Theme or Plugin: "
+msgstr "ערכת נושא או תוסף יעד: "
+
+#: ../includes/tvr-manage-single.php:211
+msgid "Tags: "
+msgstr "תגיות: "
+
+#: ../includes/tvr-manage-single.php:229
+msgid ""
+"Upload a screenshot image file 896px wide and 513px tall called \"screenshot."
+"gif/jpg/png\" to give your design pack a nice thumbnail. It's important to "
+"upload a full-size thumbnail in the dimensions 896 x 513 or larger. "
+"Microthemer will crop your image to 896 x 513 if you upload a larger image. "
+"It will also automatically create a smaller version called screenshot-small."
+"gif/jpg/png."
+msgstr ""
+"העלאת קובץ  תמונת צילום מסך ברוחב 896 פיקסל וגובה 513 פיקסל בשם \"screenshot."
+"gif/jpg/png\" כדי לתת לעיצוב שלך תמונה ממוזערת יפה. זה חשוב להעלות קובץ "
+"בגודל מלא במידות 896 על 513 או יותר. Microthemer תחתוך את התמונה למידות 896 "
+"x 513 אם תועלה תמונה גדולה יותר. גם תיווצר באופן אוטומטי גרסה מוקטנת שתיקרא "
+"screenshot-small.gif/jpg/png."
+
+#: ../includes/tvr-manage-single.php:230
+msgid ""
+"<b>Important Note:</b> As of version 3 Microthemer now uses the WordPress "
+"media manager for storing background images. It's  therefore not necessary "
+"or advised to upload background images here. It's much better to upload them "
+"from the Microthemer UI page, when you select a background image for "
+"inclusion in your design."
+msgstr ""
+"<b>הערה חשובה:</b> נכון לגרסה 3 ומעלה Microthemer משתמש במנהל המדיה של "
+"וורדפרס לאחסון תמונות רקע.  לכן אין צורך ולא מומלץ להעלות תמונות רקע כאן. "
+"הרבה יותר טוב להעלות אותם מעמוד ממשק המשתמש של Microthemer, כאשר נעשה שימוש "
+"בתמונת רקע להכללה בעיצוב שלך."
+
+#: ../includes/tvr-manage-single.php:232
+msgid ""
+"Any images your design pack links to will be included in your design pack if "
+"you choose to download it as a zip file. When you install a design pack zip "
+"file, all the images will be copied to the WordPress media library. Image "
+"file paths will be updated accordingly."
+msgstr ""
+"כל תמונה שחבילת העיצוב שלך מקשרת אליה תיכלל בחבילת העיצוב אם בחרת להוריד "
+"אותה כקובץ zip. כאשר חבילת העיצוב תותקן, כל התמונות תועתקנה לספריית המדיה של "
+"וורדפרס. נתיבי התמונות יעודכנו בהתאמה."
+
+#: ../includes/tvr-manage-single.php:234
+msgid "Design Pack Files"
+msgstr "קבצי חבילת העיצוב"
+
+#: ../includes/tvr-manage-single.php:296
+msgid "Media library images this design pack incorporates"
+msgstr "תמונות ספריית המדיה שחבילת עיצוב זו משלבת"
+
+#: ../includes/tvr-manage-single.php:334
+msgid "File types you are allowed to upload:"
+msgstr "סוגי קובץ הניתנים להעלאה:"
+
+#: ../includes/tvr-manage-single.php:347
+msgid ""
+"If you're going to submit your design pack to Themeover, adding some "
+"instructions to help end users customize your design pack is a really nice "
+"touch. This could include pointing out potential pitfalls or recommending "
+"best practices. The instructions you add will feature on Themeover's listing "
+"page."
+msgstr ""
+"אם בכוונתך להגיש את חבילת העיצוב שלך להצגה ב Themeover, בהוספת הנחיות "
+"למשתמשי הקצה של חבילת העיצוב שלך יש טאצ' נחמד. זה יכול לכלול הצבעה על "
+"חסרונות פוטנציאליים או שיטות עבודה מומלצות. ההנחיות תוצגנה בהבלטה בעמוד "
+"הרישום של Themeover"
+
+#: ../includes/tvr-manage-single.php:348
+msgid ""
+"Some design packs may not benefit much from additional instructions of "
+"course. In which case feel free to leave this blank."
+msgstr ""
+"יש חבילות עיצוב שלא תהיה בהן תועלת בהנחיות נוספות, ובמקרה כזה, אפשר להשאיר "
+"את השדה ריק."
+
+#: ../includes/tvr-manage-single.php:350
+msgid "Instructions For The End User"
+msgstr "הנחיות למשתמש הקצה"
+
+#: ../includes/tvr-manage-single.php:357
+#, fuzzy
+msgid "Update Instructions"
+msgstr "לשונית הנחיות"
+
+#: ../includes/tvr-manage-single.php:368
+msgid "Design Pack File"
+msgstr "קובץ חבילת עיצוב"
+
+#: ../includes/tvr-manage-single.php:370
+msgid "About this file"
+msgstr "אודות קובץ זה"
+
+#: ../includes/tvr-manage-single.php:372
+msgid ""
+"This is the configuration file which contains all of the Microthemer "
+"settings for this design pack. It is created automatically when you export "
+"your work. When you import a design pack into the Microthemer UI the style "
+"settings, media queries, and any custom CSS code are loaded from this file."
+msgstr ""
+"זה קובץ ההגדרות הכולל את כל ההגדרות של Microthemer עבור חבילת העיצוב. הוא "
+"נוצר אוטומטית במהלך היצוא של העבודה שלך. כאשר מייבאים חבילת עיצוב אל ממשק "
+"המשתמש של Microthemer, הגדרות העיצוב, שאילתות המדיה וכל עיצוב CSS אחר נטענים "
+"מקובץ זה."
+
+#: ../includes/tvr-manage-single.php:373
+msgid ""
+"You're not likely to want to manually edit this file. But occasionally "
+"programmers download it, do some find and replace adjustments, and then re-"
+"upload it using the \"Upload File\" button at the top of the design pack "
+"files table."
+msgstr ""
+"סביר שלא תרצו לערוך את הקובץ הזה באופן ידני, אבל לפעמים מתכנתים מורידים אותו "
+"מוצאים משהו ומחליפים בהתאמה ואז מעלים אותו מחדש באמצעות כפתור \"העלאת קובץ\" "
+"שבראש טבלת קבצי חבילת העיצוב."
+
+#: ../includes/tvr-manage-single.php:376
+msgid ""
+"This is the information file which contains meta information about design "
+"pack. Themeover uses the information in this file to list a user-submitted "
+"design pack on themeover.com. You can edit this file using the \"Design Pack "
+"Meta Info\" form."
+msgstr ""
+"זהו קובץ המידע המכיל את המידע המתאר את חבילת העיצוב. Themeover משתמשת במידע "
+"שבקובץ זה כדי להציג בחבילות העיצוב המוגשות לתצוגה ב themeover.com. ניתן "
+"לערוך את הקובץ באמצעות הטופס \"מידע תיאור חבילת עיצוב\"."
+
+#: ../includes/tvr-manage-single.php:379
+msgid ""
+"This is the readme file which contains instructions for the end user of a "
+"design pack - if the author decided that instructions would be beneficial. "
+"You can edit this file using the \"Instructions\" form."
+msgstr ""
+"זהו קובץ הקריאה המכיל הנחיות למשתמש הקצה עבור חבילת העיצוב - אם המחבר החליט "
+"שהנחיות תבאנה תועלת. ניתן לערוך את הקובץ הזה בטאמצעות הטופס \"הנחיות\"."
+
+#: ../includes/tvr-manage-single.php:385
+#: ../includes/tvr-microthemer-ui.php:657
+#: ../includes/tvr-microthemer-ui.php:1011
+#: ../includes/tvr-microthemer-ui.php:1028
+#: ../includes/tvr-microthemer-ui.php:1041
+#: ../includes/tvr-microthemer-ui.php:1051
+#: ../includes/tvr-microthemer-ui.php:1059
+#: ../includes/tvr-microthemer-ui.php:1080
+msgid "Close"
+msgstr "סגירה"
+
+#: ../includes/tvr-microthemer-preferences.php:18
+msgid "Edit your Microthemer preferences"
+msgstr "עריכת העדפות ה Microthemer שלך"
+
+#: ../includes/tvr-microthemer-preferences.php:20
+msgid "General"
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:21
+msgid "CSS Units"
+msgstr "יחידות CSS"
+
+#: ../includes/tvr-microthemer-preferences.php:37
+msgid "Nothing to try in Edge mode."
+msgstr "אין מה לנסות במצב קצה."
+
+#: ../includes/tvr-microthemer-preferences.php:38
+msgid "Learn about the last pilot"
+msgstr "אודות הפיילוט האחרון"
+
+#: ../includes/tvr-microthemer-preferences.php:44
+msgid "Enable edge mode. "
+msgstr "הפעלת מצב קצה. "
+
+#: ../includes/tvr-microthemer-preferences.php:45
+msgid ""
+"Read a full explanation of the changes and give us constructive feedback on "
+"this forum thread."
+msgstr "לקריאת הסבר מלא על השינויים ולמתן משוב בונה בעניין נושא זה בפורום."
+
+#: ../includes/tvr-microthemer-preferences.php:46
+msgid "Read about/comment here"
+msgstr "קריאה אודות/תגובה כאן"
+
+#: ../includes/tvr-microthemer-preferences.php:50
+msgid "Add \"first\" and \"last\" classes to menu items"
+msgstr "הוספת מחלקות \"ראשון\" ו\"אחרון\" לפריטי תפריט"
+
+#: ../includes/tvr-microthemer-preferences.php:51
+msgid ""
+"Microthemer can insert \"first\" and \"last\" classes on WordPress menus so "
+"that you can style the first or last menu items a bit differently from the "
+"rest. Note: this only works with \"Custom Menus\" created on the  Appearance "
+"> Menus page."
+msgstr ""
+"Microthemer יכול להוסיף מחלקות \"ראשון\" ו\"אחרון\" בתפריטי וורדפרס כך אפשר "
+"יהיה לעצב את הפריט הראשון או האחרון באופן שונה מיתר התפריט. הערה: זה פועל רק "
+"כאשר מופעלים \"תפריטים אישיים\" שנוצרו בעיצוב> תפריטים."
+
+#: ../includes/tvr-microthemer-preferences.php:55
+msgid "Gzip the Microthemer UI page for faster loading"
+msgstr "החל כיווץ Gzip על עמוד ממשק המשתמש של Microthemer לטעינה מהירה יותר"
+
+#: ../includes/tvr-microthemer-preferences.php:56
+msgid ""
+"The Microthemer interface generates quite a bit of HTML. Having this gzip "
+"option enabled will speed up the initial page loading."
+msgstr ""
+"הממשק של Microthemer מייצר לא מעט HTML. הפעלת אפשרות זו של כיווץ gzip תאיץ "
+"את הטעינה הראשונית של העמוד."
+
+#: ../includes/tvr-microthemer-preferences.php:59
+#, fuzzy
+msgid "Display \"Chrome is faster\" notice"
+msgstr "הצגת הערת אינטרנט אקספלורר"
+
+#: ../includes/tvr-microthemer-preferences.php:60
+msgid ""
+"Microthemer advises using Chrome if you are using an alternative because the "
+"interface runs noticeably faster in Chrome. But you can turn this off if you "
+"want."
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:64
+msgid ""
+"If your server has the PHP settings \"safe mode\" on, you may encounter "
+"permission errors when Microthemer tries to create directories. Microthemer "
+"will alert you to safe-mode being on. But if that's old news to you, you may "
+"want to disable the warnings about it."
+msgstr ""
+"אם בשרת שלכם מופעלת פקודת PHP של \"מצב בטוח\", יתכן שתיתקלו בשגיאות הרשאה "
+"כאשר Microthemer מנסה ליצור ספריות. Microthemer יזהיר אותך שמצב בטוח פועל, "
+"אבל אם זה חדשות ישנות עבורכם, יתכן שתרצו לכבות את האזהרה הזו."
+
+#: ../includes/tvr-microthemer-preferences.php:67
+msgid "Always add !important to CSS styles"
+msgstr "להוסיף תמיד !important לעיצובי CSS"
+
+#: ../includes/tvr-microthemer-preferences.php:69
+msgid ""
+"Always add the \"!important\" CSS declaration to CSS styles.This largely "
+"solves the issue of having to understand how CSS specificity works. But if "
+"you prefer, you can disable this functionality and still apply \"!important"
+"\" on a per style basis by clicking the faint \"i's\" that will appear to "
+"the right of every style input."
+msgstr ""
+"להוסיף תמיד הצהרת CSS מסוג  !important לעיצובי CSS. זה בדרך-כלל פותר את "
+"הבעיה של הצורך להבין כיצד מיקוד CSS פועל. אבל אם אתם מעדיפים, ניתן לכבות את "
+"התפקוד הזה ועדיין להחיל  !important על עיצובים ספציפיים על ידי לחיצה על  "
+"\"i's\" שיופיע מימין לכל שדה קלט של עיצוב."
+
+#: ../includes/tvr-microthemer-preferences.php:72
+#, fuzzy
+msgid "Always use CSS3 PIE polyfill where relevant"
+msgstr "להשתמש תמיד ב CSS3 PIE polyfill כאשר זה רלוונטי"
+
+#: ../includes/tvr-microthemer-preferences.php:73
+msgid "(configure manually)"
+msgstr "(הגדרה ידנית)"
+
+#: ../includes/tvr-microthemer-preferences.php:74
+#, fuzzy
+msgid ""
+"Always include to the CSS3 PIE htc file if gradients, rounded corners, or "
+"box-shadow have been applied to make them work in Internet Explorer 6-8. "
+"Note: a \"position\" value of \"relative\" will automatically be applied to "
+"the selector unless you explicitly set the position property to \"static\" "
+"or some other value. Set this option to \"No\" if you would like to enable "
+"this polyfill on a per selector basis."
+msgstr ""
+"לכלול תמיד את קובץ CSS3 PIE htc אם צבע מדורג, פינות מעוגלות או הצללת תיבות "
+"יושמו כדי לגרום להם לפעול גם באינטרנט אקספלורר 6-8. הערה: ערך מיקום \"יחסי\" "
+"יחול אוטומטית על הסלקטור אלא אם תגדירו אותו במפורש ל\"סטטי\" או ערך אחר. "
+"הגדירו אפשרות זו כ\"לא\" אם תרצו להפעיל את התכונה על בסיס עיצוב סלקטור "
+"ספציפי."
+
+#: ../includes/tvr-microthemer-preferences.php:77
+msgid "Add a Microthemer shortcut to the WP admin bar"
+msgstr "הוספת קיצור דרך ל Microthemer לסרגל הניהול העליון"
+
+#: ../includes/tvr-microthemer-preferences.php:78
+msgid ""
+"Include a link to the Microthemer interface from the WordPress admin toolbar "
+"at the top of every page."
+msgstr "לכלול קישור לממשק Microthemer מסרגל הניהול העליון של כל עמוד."
+
+#: ../includes/tvr-microthemer-preferences.php:81
+msgid "Include admin bar shortcut as a top level link"
+msgstr "לכלול קיצור דרך בלוח הבקרה כקישור רמה עליונה"
+
+#: ../includes/tvr-microthemer-preferences.php:82
+msgid ""
+"If you are enabling the Microthemer shortcut in the admin bar, you can "
+"either have it as a top level menu link or as a sub-menu item of the main "
+"menu."
+msgstr ""
+"אם הפעלת את קיצור הדרך ל Microthemer בסרגל הניהול, ניתן לבחור אם הוא יוצג "
+"כקישור רמה עליונה או כתפריט משנה של התפריט הראשי."
+
+#: ../includes/tvr-microthemer-preferences.php:89
+msgid "Display WP admin bar on site preview"
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:90
+msgid ""
+"Display the WordPress admin bar at the top of every page in the site preview"
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:101
+msgid "Frontend preview URL Microthemer should load"
+msgstr "תצוגה מוקדמת של כתובת ה URL ש Microthemer צריך לטעון"
+
+#: ../includes/tvr-microthemer-preferences.php:102
+msgid ""
+"Manually specify a link to the page you would like Microthemer to load for "
+"editing when it first starts. By default Microthemer will load your home "
+"page or the last page you visited. This option is useful if you want to "
+"style a page that can't be navigated to from the home page or other pages."
+msgstr ""
+"לציין ידנית קישור לעמוד שייטען על-ידי Microthemer לעריכה עם הפעלתו. כברירת "
+"מחדל Microthemer יטען את עמוד הבית שלך או את העמוד האחרון שבו ביקרת. אפשרות "
+"זו שימושית לעיצוב עמוד שאין אפשרות לנווט אליו מעמוד הבית או עמודים אחרים."
+
+#: ../includes/tvr-microthemer-preferences.php:105
+msgid "Google Font subset URL parameter"
+msgstr "פרמטר כתובת URL של ערכת גופני Google"
+
+#: ../includes/tvr-microthemer-preferences.php:106
+msgid ""
+"You can instruct Google Fonts to include a font subset by entering an URL "
+"parameter here. For example \"&subset=latin,latin-ext\" (without the "
+"quotes). Note: Microthemer only generates a Google Font URL if it detects "
+"that you have applied Google Fonts in your design."
+msgstr ""
+"אפשר להורות לגופני Google לכלול ערכת גופנים על-ידי הזנת פרמטר כתובת URL כאן. "
+"לדוגמה \"&subset=latin,latin-ext\" (ללא מרכאות). הערה: Microthemer מייצר רק "
+"כתובת URL של גופני Google אם הוא מזהה שהחלת אותם בעיצוב שלך."
+
+#: ../includes/tvr-microthemer-preferences.php:109
+msgid "Tooltip delay time (in milliseconds)"
+msgstr "זמן השהיית בועת טולטיפ (באלפיות השניה)."
+
+#: ../includes/tvr-microthemer-preferences.php:110
+msgid ""
+"Control how long it takes for a Microthemer tooltip to display. Set to \"0\" "
+"for instant, \"native\" to use the browser default tooltip on hover, or some "
+"value like \"2000\" for a 2 second delay (so it never shows when you don't "
+"need it to). The default is 500 milliseconds."
+msgstr ""
+"בקרת משך ההשהיה שייקח לבועת טולטיפ של Microthemer להיות מוצגת. להגדיר \"0\" "
+"להצגה מידית, \"מקומי\" כדי להשתמש בברירת המחדל של הדפדפן, או ערך כמו "
+"\"2000\" להשהיה של שתי שניות (כך שלעולם לא יוצג ללא צורך). ברירת המחדל היא "
+"500 אלפיות השניה."
+
+#: ../includes/tvr-microthemer-preferences.php:123
+#: ../includes/tvr-microthemer-preferences.php:128
+msgid "Load a set of CSS units"
+msgstr "טעינת יחידות CSS"
+
+#: ../includes/tvr-microthemer-preferences.php:129
+msgid ""
+"Pixels are easier to work with. Consequently the default CSS unit "
+"Microthemer applies. But many consider it best practice to use em units in "
+"most instances. You can quickly load a full set of suggested CSS units here."
+msgstr ""
+"קל יותר לעבוד עם פיקסלים ולכן זו ברירת המחדל של Microthemer, אבל רבים חושבים "
+"שעדיף להשתמש ביחידות em. אפשר לטעון כאן בקלות סט מלא של יחידות CSS מוצעות."
+
+#: ../includes/tvr-microthemer-preferences.php:167
+#: ../includes/tvr-microthemer-preferences.php:194
+msgid "Save Preferences"
+msgstr "שמירת ההעדפות"
+
+#: ../includes/tvr-microthemer-preferences.php:170
+#: ../includes/tvr-microthemer-ui.php:647
+#: ../includes/tvr-microthemer-ui.php:762
+#: ../includes/tvr-microthemer-ui.php:848
+#: ../includes/tvr-microthemer-ui.php:952
+#: ../includes/tvr-microthemer-ui.php:990
+#: ../includes/tvr-microthemer-ui.php:1020
+#: ../includes/tvr-microthemer-ui.php:1032
+#: ../includes/tvr-microthemer-ui.php:1070
+msgid "About this feature"
+msgstr "אודות תכונה זו"
+
+#: ../includes/tvr-microthemer-preferences.php:125
+msgid ""
+"Set your global Microthemer preferences on this page. Hover your mouse over "
+"the option labels for further information on each option."
+msgstr ""
+"הגדרת העדפות כלליות של Microthemer בעמוד זה. ריחוף עם העכבר מעל אפשרות תציג "
+"תווית עם מידע נוסף עבורה."
+
+#: ../includes/tvr-microthemer-preferences.php:131
+#, php-format
+msgid ""
+"Please unlock the full program by entering your PayPal email address on "
+"<span %s>this page</span>."
+msgstr ""
+"נא לשחרר את נעילת התוכנה המלאה על-ידי הזנת אימייל פייפל שלך ב<span %s>עמוד "
+"זה</span>."
+
+#: ../includes/tvr-microthemer-preferences.php:141
+#, php-format
+msgid ""
+"You may also wan to customise the default media queries Microthemer suggests "
+"on <span %s>this page</span>."
+msgstr ""
+"יתכן שתרצו גם להתאים את שאילתות המדיה ש Microthemer  מציע ב<span %s>עמוד זה</"
+"span>."
+
+#: ../includes/tvr-microthemer-ui.php:162
+msgid "Edit custom code tabs"
+msgstr "עריכת לשוניות קוד מותאם אישית"
+
+#: ../includes/tvr-microthemer-preferences.php:150
+#, fuzzy
+msgid "Load a full set of suggested CSS units"
+msgstr "טעינת יחידות CSS"
+
+#: ../includes/tvr-microthemer-preferences.php:162
+#, fuzzy
+msgid "Select a set of default units"
+msgstr "טעינת יחידות CSS"
+
+#: ../includes/tvr-microthemer-preferences.php:163
+#, fuzzy
+msgid ""
+"Pixels are easier to work with. Consequently, pixels are the default CSS "
+"unit Microthemer applies. But many consider it best practice to use em (or "
+"rem) units in most instances. You can quickly load a full set of suggested "
+"CSS units here."
+msgstr ""
+"קל יותר לעבוד עם פיקסלים ולכן זו ברירת המחדל של Microthemer, אבל רבים חושבים "
+"שעדיף להשתמש ביחידות em. אפשר לטעון כאן בקלות סט מלא של יחידות CSS מוצעות."
+
+#: ../includes/tvr-microthemer-preferences.php:227
+msgid ""
+"Set your default CSS units here. On initial install, 'px (implicit)' (simple "
+"pixels set) is the standard setting for all fields that accept numerical "
+"values. This means that if you enter a number (with no CSS unit) pixels will "
+"be added behind the scenes. Other options include ems, rems, % and more. If "
+"you set one of these, your numeric value will be given a unit automatically "
+"just before saving."
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:228
+msgid ""
+"There are also some options for auto-converting pixels to ems or "
+"percentages. 'px to em' or 'px to %'. For instance, if you set 'px to em' on "
+"the font-size property and then enter '32', Microthemer will obtain the font-"
+"size context and convert 32 pixels into an equivalent em value. So if the "
+"font-size context was 16px, Microthemer would convert this to '2em'."
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:229
+msgid ""
+"Finally, Excel-like formulas can now be used in style fields for auto "
+"converting pixels to percentages or ems. Enter =%(200) into the width field "
+"(for instance) and Microthemer will calculate 200 pixels as a percentage of "
+"the parent element's width. You can also use =em(36, 2). If the font-size "
+"context was 12, Microthemer would convert this to 3em. The extra '2' "
+"parameter is optional. If specified, the context of the nth element would be "
+"used if the selector matches multiple elements (rather the defaulting to the "
+"first element in the selection)."
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:230
+msgid ""
+"These auto-conversion options can save you from having to use a calculator "
+"in combination with a browser inspector. They are particularly useful when "
+"converting a pixel based PSD file into a fluid or elastic website design."
+msgstr ""
+
+#: ../includes/tvr-microthemer-preferences.php:236
+#: ../includes/tvr-microthemer-preferences.php:241
+msgid "Save Preferences"
+msgstr "שמירת ההעדפות"
+
+#: ../includes/tvr-microthemer-ui.php:139
+msgid "Enter your own custom CSS code"
+msgstr ""
+
+#: ../includes/tvr-microthemer-ui.php:145
+msgid "Edit custom code tabs"
+msgstr "עריכת לשוניות קוד מותאם אישית"
+
+#: ../includes/tvr-microthemer-ui.php:156 ../tvr-microthemer.php:215
+msgid "All Browsers"
+msgstr "כל הדפדפנים"
+
+#: ../includes/tvr-microthemer-ui.php:157 ../tvr-microthemer.php:217
+msgid "All versions of IE"
+msgstr "כל גרסאות אינטרנט אקספלורר"
+
+#: ../includes/tvr-microthemer-ui.php:158 ../tvr-microthemer.php:218
+msgid "IE9 and below"
+msgstr "אינטרנט אקספלורר 9 ומטה"
+
+#: ../includes/tvr-microthemer-ui.php:159 ../tvr-microthemer.php:219
+msgid "IE8 and below"
+msgstr "אינטרנט אקספלורר 8 ומטה"
+
+#: ../includes/tvr-microthemer-ui.php:160 ../tvr-microthemer.php:220
+msgid "IE7 and below"
+msgstr "אינטרנט אקספלורר 7 ומטה"
+
+#: ../includes/tvr-microthemer-ui.php:248
+msgid "Go To Previous Selector"
+msgstr "מעבר לסלקטור הקודם"
+
+#: ../includes/tvr-microthemer-ui.php:249
+msgid "Go To Next Selector"
+msgstr "מעבר לסלקטור הבא"
+
+#: ../includes/tvr-microthemer-ui.php:256
+msgid "Manage folders & selectors"
+msgstr "ניהול תיקיות וסלקטורים"
+
+#: ../includes/tvr-microthemer-ui.php:261
+msgid "Enter a new folder name"
+msgstr "הזנת שם תיקיה חדשה"
+
+#: ../includes/tvr-microthemer-ui.php:262
+msgid "Create a new folder"
+msgstr "יצירת תיקיה חדשה"
+
+#: ../includes/tvr-microthemer-ui.php:262
+msgid "Add Folder"
+msgstr "הוספת תיקיה"
+
+#: ../includes/tvr-microthemer-ui.php:287
+#: ../includes/tvr-microthemer-ui.php:893
+msgid "Folders"
+msgstr "תיקיות"
+
+#: ../includes/tvr-microthemer-ui.php:291
+#, fuzzy
+msgid "Selectors"
+msgstr "סלקטור"
+
+#: ../includes/tvr-microthemer-ui.php:297
+msgid "Double-click anything on the page to begin restyling it."
+msgstr "נא ללחוץ לחיצה כפולה על כל דבר שהוא בעמוד כדי להתחיל לעצב אותו מחדש."
+
+#: ../includes/tvr-microthemer-ui.php:305
+msgid "Purchase a license to use the full program"
+msgstr "נא לרכוש רישיון כדי להשתמש בתוכנה המלאה"
+
+#: ../includes/tvr-microthemer-ui.php:307
+msgid "Buy"
+msgstr "רכישה"
+
+#: ../includes/tvr-microthemer-ui.php:310
+msgid ""
+"If you have purchased Microthemer you can enter your email address to unlock "
+"the full program. If you have not yet purchased Microthemer, you cannot "
+"unlock the full version."
+msgstr ""
+"אם רכשת את Microthemer נא להזין את האימייל שלך כדי לשחרר את נעילת התוכנה. אם "
+"טר�ck the full version."
+msgsustomise the default media querieial page loadinefiter-preferen
+"הממשק שצו�crotת �b(w�ת התוכנה המלאה ע97(w שת את Mr, ת זו �שלך �ווץ gzip תאיץ "
+"את הטעינה הראשונית של העמלל�צוt."
+"gifוד כדי להתח�athemer-uinage-single.php:188
+msgid "Design Pack Name: "
+. Y�לל�ש לת �msgsstr �ה."
+גדירו אפשרותues. Thiהערת � א�ת �msggzipudes�. א�l(w�צו גם להתאים את �97(w optional. If spe�ותueassue of having to undע ב<span %s>עמוד ז1
+"in combinationc6If sp1rmh a browser ail. wser s%�ם מעמוד s5
+msgid "Edcombד זה.e8-sl "טעינת י�u�eכון לג�תוכbination�ת �ד"לת הת�+��wser s%��\tions for auto-converting  חבaving to y
+gi%s>עמוד "
+"זה</span>."
+
+#�ירו אפשרוy6��-converting  חבalחרר א�:g+��i�crothemer בע�ences.p"זה</sps For The End ye�ינ�הער אות�Go To PrevioAefiteaving too y
+gi%s>redge mode. "
+m�
+msgstr ""
+"כל �3�ination�r ש�hp:220
+msgid 2o wan u�eכ�eta Inל העr� מופעלת פקודתs�מי\" כדי להשתמש בב�וt."
+"gifו�u20
+msg,lחרר אם אישית"
+
+עמוד."p�ה למכיר"
+"הבעי�over \"r�נתמטה"g\�."p�ה לT context of the nth element would be "
+"used iעr� מופעלת פקוי הaB-microthemer.php:219
+msgid "IE8 don't wiפע zy
+את נעי�:�r ש�hpA�ע z�npe�ותueassue of g4�Go To /includes/tvr-manage-single.php:170
+msgid "Instructions tab"
+msgstr "ל�themer preferstr "ל�them� ר��s~% #: ../
+
+#: .o�ר� usdve nottIA�FqDesig. The instructוניות ק�>."
+�r "hen enter '32-~% #: ../vr-microthemer-preferences.php:228
+msgid ""
+"Th../includ'�ons tab"
+msgstr "ל�themer preferstr "ל�themer prefersL�נת י�u�eכון לג�e.php:3,&ד הב�2can qu/vr-micor aul: ../includes (nting �sk�ueassue of g4�Go To /includes/tvr-manage-sir-u��nring anlmanage-siH ../includeנת יכ��ncludes/tvOhere. ��b(w�eferst� י�u�eos (nti��o/�operty a/includes/tr " �"
+
+#:i�ב�אים את שא�cgstr "�hemer"to uploa fu. wseoAefitea(ur global Micromsgstr "ט�f�e: a \"position\" "�hludes/tv'321s functionalit \"posit�לק�C-micris/tthem/�operty a/in�ריטmsgstr "HP settings \"saf9./includes/� ה�encludes� the design pack "
+"file\�php:893
+msgid "Folders"
+יצוtgynu."
+msgstr ""
+"�וtgynu."
+msgstr "rting  icrothei.php:13msgstr "יציchased Microthe
+יצוtgyדשr inspectorcludes�ae is the s�ב cludesצובes/tvr-mUck. It is created automat Microthemer will load your home "
+"page or the last pageFcB�\" "
+"יחול שת את Microahe  Appferer ""
+"קל יו�r-me ohiהערת � א�ת �msggzipudes�. א�l(w�צו גם � of g4�Go To /includes/tvr-manage-singl�geנה. אU חושבים �sTress to "קלuseful whenערת � א�ת �msggzipudes�. א�des/ttcu"ת� תh�ס. ריח �sTrebthe end user on tv
+"gifוד כדי להתח�athemerl vers, A-Z,פשרוy6��-conver�מ�the r�p:219
+msgid "IE8 tr "הצגת העח�a ��,r "�. On initial insSsQם בהעלא ה�5�atioothemer UI pr design pacnd "Folders"
+יצוtgynu."�smsingle.dערש� שמצב ב4�ר ה6r sgstr eull pro6php:51
+msgd "IE8 0�Nving to"
+
+#: .ludes/tvr-manahelp end .php:178
+msgoefiteavi design pacnd "Folde usdve nottIA�/cludes� the design pack "
+"file\�php:893
+msgi�uS��apack "Folde uld ��ת הת. ��nmsgit/Fthe %1$s and (�gs, media q�ל  hemed "Bu� "
+"id "Purchaser�נחיות למשתמ�רכי��hludes/tv��d .php:178
+msgoefiteavi e Fon right of every style input�העלו�s/tv��d .xphemer UI pr \s. The ins" (ללק�C"
+"at the 
+"permeל �s" (ל�siH ../includeנ�\" �d "Bu� "
+on\" "�h(ה</sps For The End 4�"
+s�רו אפ�c"
+"upb7gstr includes/�פת �6age-siH ../includeנת  input6 style�ו�-ludmsgid "Edco1iage loadinefitet�gi�uS��7�. כ�o so(�gp/� בתוכנה המלוadinefitetvr-man�� א�:� �msggzipudmer-pr/inclu כדי ל�o1iage loadinefitepack "
+"file\�php:893
+msgi�uS��apack "Folde uldoad your hom� ש�i./in"
+
+#: ../includes/tvr-microthemer-preferences.php:236
+#: ../includes/tvr-microthemer-preferences.php:241
+msgid "Save Prerrences.phe5�dוב � To /include-7wsers"
+msgstr�מ"
+"that ת תציג sr � תיקיה חדשה"
+
+#: ../includes/tvr-mic�dוב6Bmic�dוב6Bmic�dוב6msgid "Folders"
+יצוtgynu."
+msgstr ""
+"�וtgynu."
+msgstr "rting  icrothei.crothem� יוcludes� the Ihelp end .phoהגיש �nv3כי��gid "pד�Vmsgst y
+gi%s>r../includes/str "rting  lude-7wsers"
+msgstr�מ"
+"that ת תציג sr � תיק�cludes/st ../includes�� משלS���ן אd "" design."תו�i�� משלS�s/tvr-mi7,3he5�dוב � To /iת השני�esign."�רה �emer you �sign pack a nice thumbnail. � פוu would /tv��d .xph"Microtte usdve nottIA�/clu str "יציcwrom the "
+". Theedia q�ל  hemed "Bu� "1hoהגיש 82id "GoogiZתי�\"saf9..�שת אתncludes�� manually�ss��"r�נת�-יcwrom�R#: ../y�efitetvr236
+#: .+mrom�R#: ../ytr "יציcwromד ז1
+"in combine of Designrothemer-pref  "Save Pers"
+יצוtgynu."
+m pr desig�I קיצור דרך בלוח בלוח ר זה רהi�בץ CS ב�מחלקוyast pi�וח can dhave purciChrome if you are using a��ופס \"מידע תיאור חבי�uif yous�lhp:217
+7
+ms: ../י ל�o1iage vr-mif/ת�" (ללא �4rom�R#clude<� לשחור חבי�u� ובץ zip. �nces.php:20� using an alternative because the "
+"interface ru�יצור דרך בלוח הבקרה כקישור רמה �s/tvr-mi7,3he5�dוב � To /ortcut ieoptionr-proהגc.e�ותאם אישיתalso s�5ישmsgstr "יחvr-mif/�ro6ph8מחח הב7�תalso s���אן בשר זה רל�-s.php:51
+ Designrotheme�%f/�ro6ph�u� ובץ zip. tton at t�ן לR#clude<� לשחור חבי�us�7em/�ope�ris/tthem/"id "Purc רלumsgstr�מ"
+"that ת �a�rotheme�%f/�ro6ph�u� ובץ zip. tton at t�ן לR#Iישm�בלוח�5�א�7�וכנה המclude חבילudes/p"יחו"הבעי�"
+"select�0 תיאור חבCללא צוהבקרהiנת א�הiנ8�icrothem�שאה  yous�lhp:217
+7
+ms: ../י ל�o1iage vr-mifצו לכ�"סלr "נא לר�h��o1iagevTgn pack.ahp:217
+7
+ms: ../י לm pr desi  there 82id "�7ת א�הiנ8�icro((לוח�5:217 ../
+
+es.php:8�str "הנחיו�nd 4�"
+s�ר(bout��ש�r-microtences. "
+� גר האזה/
+
+es.ult medi)-proה�the %1$s a Microthemr-pre בל�hp:893e generates quite a bit of HTML. Hb25
+msgid �נחיו�nd 4�"
+9..�ש�to�t Dep:241
+mudes/tvr-maושi.phmer-ui.php:1041
+#: ../includes/t"
+msgsccept ת אto�t Dep��צוt.S medi)-proהer-preferences��ה�th: ../i�t"
+msgsccepti.phmero generatl�ו א�texinput��ate di�hems/t" Any imageseref�נט� understae�יג iof HTML. umsgstP�\r"
+�8 do��יאl�."p��5�r�שבי�rogram. Iיש �nv3כי��gid "p�7w"
+msgstr "-prefny imag therinclincludeso0gdלשח�es quite a. umsgs5MEתמי�307
+nt to "
+"sin combis c3n�obe "
+�$s>this pag4�לג�תוכbination�ת �ד"לת �phpותר.occasionallhemeove�ם להrue of having to understand how CSS specificrlc לשחור חביU"כל �ioorue odp�ח �sTran enter yoaicrothemr-pre ב�ssaryause  ש Mשתמ8חבpות
+msgstr��p:17��uif yous�\שר זה� �bif yaui.p""162
+#it never she ב�ssFolde uldoad yncludes/tvr-microthemer�hems/t" yr�ר �rences.9s. The ins" (ללק�C"
+"at the 7ohemer�hems/tf defae�iteלudes/p"�and   there 82iS version."
+msgstr "esig�ושi.phmer-uiער�address on 647Iefny imag therinclincludeso0gdלשח�es quite a.r "�ונה בעs��
+
+#: ../�:"
+
+#: .u to safe-mode beiמי�307
+nt to "��חיצ�
+"זו שיך"" deg/tvr-muates  ../i,d�ח בgn pack to Themh�u� ובץsFolde�בpוT�iuid or e#: ../i�/�ro"Purc רלumsge בל�hp:893e generates quite a bit of HTMe a bi./י �lectors"
+msgstr "ניהול תייוcludes� the Ihelp end"Bu� "1hoהגיש 82id "GoogiZתי�\"saf9..�שת אתnclude1iage vr-mifd adminn pack "
+msgid hp:160 ../trks with \"Custom Menus\" created on the  Appearance "
+A�וא בע�)8..�שת אתtr � רישי�" yr��link to the Micvr-microthemer-preferences.php:228
+ms�ה בs�"ל�also s�5י�nis file r "יח�ני�esign.yr��link mer will licrothcludes/tvr-�אופן שונה מיתר התפריט. הערה: on�ת �ד"לת �phpותר.occasionallhemeo�"��חיצ�
+"זו שיך"" deg/tvr-muates  ../i,doasion/i�/ונה מf you "�ר �ris design pack. It9ings�ר �rences.9s. The ins" (לל�%on at t�בes/tvr-mU� בh�ver s�יציys�וcluryause  ש w8-mifdyr�נא לרכוש רישיו"
+msgid hp:160pack. It9ings�ר �rences.9s. The ins" (ל�siH ..sמודselect�0Y6�ת את Microa
+
+#: ."נא לרכוש �\�רוropert�ת�sig�מש הקתמ8�use  ש Mשתopehe ins" (ללק�eי�ons" (ל�0 ../trks with \"Custom Menus\"o<� לשחור חבי�u�xmmers download it, do somegstr "ניהo'pFnסלים �rothemer-ui�ther have" Anyus�lhp:2�חדש בז generatr s�יי�ons" (לhe ins" (+ates quite a bit of HTMe a bi./ חבaving to y
+gi%s>עמודl calcula�א ש�ר אוxludesoad it, do somegstr "ניהo'pFnסלים �rothemer-ui�b "
+ui.pמח"
+"that ת f"Set your gl0�סרונF�גי ק�s�ה�לאה ע97(wr "הוספ�'��p�xm bit nces.� ya�ion�ת witha.pמח"�ר חe�3�י ק מf you "N� the t"
+"\n-prefer�cu"ת� תא�הiנ8�icro((לוח�5:217 ../
+
+�"�ר �2r witha.pמח"�ר חe�3�י ק מf you "N� the t"
+ בטוח\", ית� 82id "�7 באמ\fiנ8�ilast\a,opehe o have", ית� 82b'Wס \"מגת הע8�icro((לוח�5:217 ../
+
+�"�מ8חבpות
+msgstr."pחו חב�dtr ""
+"�וtgynu."he o haveaCu�לק.php:262
+msgiign packs m"
+ui.pמח"
+"that ת f"Set yourAr � רישי�" גת �ins" (�n
+"just before saving."
+tr-mir-prefer�ת,ope: pack.veaCu9�"pחו וד�g. The instructוניות ק�>."
+�r "hen enter '32-~% #: ../vr- רישito Themhף%ge vr-mifdlick anthemer-prefe "
+"יחול שת את Microahe s�cu"��0 ../trpack - if the�שito Themhף%ge vr-m"�וtgynuae7 ג� ../
+
+�s�ל שapplieheedback on "
+"this forum thread."
+msgstr .php:12aturemer to l."
+gstrp umsgstP�\u "
+"למשתמשי הyaveaCu�לק.php:262
+msgiign packs mhis I (�n
+"f y07
+nt(�is" (+ateאשונית ש איץ "
+"את הטעינה הht of every style input�העלו�s/tv��d .xphemer UI pr \s. Tphp:1�../inc:217 ../
+
+�"�ר �2r witha.pמחse-siH .1��Folגת�#: ../inc1��FDF8
+ms�
+msgst�:"emer-tiple elemen:241 of e� �rothi everth \"Custom9 CSS unit "
+"Microthemer applies. Butrathiק�>.�:"emer-tiple elemen:241 of e� �rothi evert� חe�: ..a""162ycrothemer preferences on this page. ��"סלr "נא לר�h��o1iagevT8
+msgiI��sig��cu auto-converting p
+"אם בשoyou may "
+"want to disasu94
+mssו בעיצוב�> (ל�0 ..ddo1iam. Theיטען את ע�rincliה מידי�\��d .xpcludילת התוכנ�/sps For Theit of HTMקספלוhere 82���
+msgst�:"emer-tiplstr."pחוmode bey�S Unicrothe./יצוב�> (ל�0 ..ddo1�עי��nou "N� theludילת ה2etcrothe.giigt of weTheיטעFn�ter '32-b� חביU"n�� א�:� �msggzipudmer-pr/in��trathiק�>.�:"emer-tiple elem��>.""pageer-pr/in��trathiק�>.�:"emer-tiple elem��>.""pag�פות
+7דים d��f9
+msg/inc�F6Cum thread.o�t Dep:241
+mudes/t of every style input�הע�e Menus\"o<� לשחור חבי�u�xmmers downloadדרך ל Micck.vesות
+7�
+"<span p/tvr-m�Ni.""pour eum threais pagלumsgstr��applie"כל �3�i� ../inclu2893e 4ramthemer-ui.php:1080
+m
+"si�אU חוש�שת אAת אo auto-conemhף%ge vr-m"�וtgynuae7a or ��%on at t�בes/tvr-fap��5�r�ש .php:1ll on�שיוus�lhp:217
+7
+ms: Mngaahe iCSS declaration to CSl-microthe ק�>."יטי וורדפרס כך אפשר "
+"יה�t3he iCSS declag�פ�ה� my sus\"o<� 1
+mudes/t of everers dow./�:"�רך ל Micck.vesוז elem��>�
+"אב�  Mngaahe1
+mudesgid� \"מגת ה../incased Micro./inclu289� list a user-submitted "
+"design ��>�
+"�e1
+mudesgid� \"מ(ים �r->.�:"emr-ui.phd'p�e�ה וע�Amer לenable "
+"ו כ\"לult CSS unit Icu"ת� סלr "נא לר�h��o1iagevpplied to "
+"the selector unless you explicitly hat ת f"�acombination with a�u"נא ל� תא�הiנלשחו�ion is useful if youumeric value will be given a unit automaticrotheomudes/tvr-m��ח�את r sgstr eull �\" "6it custom co�רך).ie"כלd to "
+u� המחדל �e selector unless you explicitly P lp/tvr-ms opנטרנ�gid "n initiב כדי ל�o1iage loadinefitepack "or u� רga eleC�R#: : ../i�t"themer-�ו
+msgstr e�s�o1iapme is fasאo auto-co6� ל�o1iage loadin3,3he5�dגtr e�se�רך � מעמוד �xplicitly smeל �s"fdyr�מיי
+msgstr � ידי לחי�,לת �phpות�nu."
+msgs1�,r "�. On ini"
+msה שהחרod "CS�ם לה-muates  ../i "n�"P�ד כדי ל�rst\" and \�"
+s�ר(bout��ש�r-microtences. מוoad a fu Entr�מ"�ס�emr-ui.�ת עmng it tahover, or some "
+"value like \"2000\" for a 2 second delay (so it never show�וoad a fu s op em (or rst\" anr-�ו
+msgs�\�"
+s�ר(3�י ק מf you "N� the t"gidr� zisgs�\�"
+s�full rothothothoth�6��"
+ to tconemhלר�h��o1ialue will be�י ק מf you "N�ספצd �נחיו�nd 4�"
+9..�ש�to�t Dep:241
+m(��מ"�ס�em7�o מצב קצS�חinc</span>."
+msgstr ""
+"יתכן שהחי�יתכן שהחי�יתכ�מש הק�ntext - ש w8-mifdyr� of enc<U חוש��"
+"that �dr� zisgs�\�"
+s�full rothothothoth�6��"
+ to tconr auto-coiext - שinstancll, 'pxש הק�nד מיקוד /tvr-m�.�ש�to�tset oo-coi�\�"
+s�fulues. This יתl, 'fo� ל�S�חinci)st\" an\" to use the browsertnerates quite a bit of HTML. Hb25
+msgid �נ�o�ul if youumeri��לכטרלums/in��trathiק�\" an\"s.php:167
+#: ../includes/tvr-mics/tvr-fap��5�r�שselectia�ums/in��trseoAefiteis יתl, 'bit of HTML. Hb25
+msgid �נ�o�ul if youd "Desig�ums/in��trathiק�\" an\"s.php:1�yourphp:81
+m מוoad�st\" an\" to
+"<spa>yה."
+
+#: ../includes/tvr-micr
+
+es.uo� uldr�ר �icroth,clesvr-microack - d "Dהק�nד מיקוד /tvr-m�.�ש�ק�nד מיקוד S code"
+msgstr ""
+
+ncll, do "
+"Microthemer a17 ../
+a if youumeri7 the �r->.�:"emrcrlc a17 ../rting  icrothei.php:13msgstr "יציchased Microthe
+יצוtgyדurphp:8�e�mהנ�ck. ניתן ל visite�לp3yדurיתכן 8emhף%��ת Micro Dep:24�aratome o�crothe��לr "לen(d
+msgid "Sav�נ�ck. ניתן ל visite�לp3yדurי�מי\�חי��includeso0ghaseting  icrothei.php:13msgstr "יצoogle
+mudesgid����יתןin bar, yorathiק�>.SS style�Theי�be g%,נט
+
+#:othei.php:13msgstroיצוב�> (��הוCS��uicrothemer-ui.php:160 ../tvr-mics
+"א�s שapplieha�ן 2���
+m\"ר�our hIE htc file i שהחרod "CS�ם לה-muates  ..�' �php�יקוד /tvr-m�.�ש�to�tset wrselAAg%,נט
+44�"
+s�ר(bouume 2���
+m�התח�athemer-uinage-single.php:188
+msgiatome o/ippreferenc "CS�הwוoad a he��לש�to�tset�ןin bar, ya)p em (�oogle
+mוד ש�s" (+at� מעמ
+"reststr � יte Butrathiק�>.�:"mer-ui"
+s���ris des you "R#Iישm�בלוח�8emsp:188
+msgiam tho �phpול7�8er-tiplstr 1��sasier to Ir�ן לכל �t� מעמ
+"reststr � יte Butrathiק�>.�:"mer-u �r ש�hpe ele3eassue of gשיופ� לכל�כ� user-submitte�מודcludes/tvr-mic#Iישm�כון א8er-th1��מ"�ס�the "
+"font-sill �\"o<� 1
+mudes/t of everers dow./�:"�רך the pa,�ח nt-sillMenus\" d\ bar, yorathiק�>.SS style�Thtsb�Finallyurc רלumsgstr�מ"
+"vr-micr,aיונת יחידות erty and of ever\" d\ br-micr,aי It nits in " בבריר�"themeaes� the designeogram.our h URL �to, ins" (+ ever\" d\ br-ro6ph8מח�i��ק�ver\" d\eלות הק"א�aes� the esgstr��applie"כל �3�i� ../inclu2893e 4ramthemerlorathi�hף%ge vr-mור�f�"יוש of ever�applie"כל
+aיcwrom the "
+"xhtsb�Fin
+
+#:ro./inclדcludes/tpFnסל�
+
+#:othei."Selectors"
+muates  ..�' �php�יקוד /tvr-m�.�ש�to�tset wrsetsb�Fin
+��
+m�התח�a/e designbr-mica�ד ז1
+reviehe des�חיד��hemerן ל visite�ל�ת "
+"p��5�r�ש .php:1�נ
+#: ../includess� the esgstrpגל הנ�/includes/tvr-microthemer-ui.phpuumeri7 thhS�r�ש .php:1�נ
+#: ../incld inc
+msgid "0r, ya)p � esgstr��appliA
+"כאשרhi�h�העk.ves "Fold "
+msgitr e�se�ר�)o(ui.pמח. Microthemer "
+"will a(תפ�s-ל7�8nrefe "
+"�hp�5�dגtr e�se./inclu�לumsgstr�מ"
+"vr-micr,ades/tv�gynuasnus\" d\ ing  icr1vl�מ"�ס�em7�o מ�ת "
+"p�Iישm�בלו�ש �\�רוro-ל7�8nrefe "
+"�e initial p"Desigהשהייתg  es/tm tho �puh in �p � esg� פו�rst\" 2
+"will a(תפ�s-ל7�8nrefe "
+"�hp�5�dגtr e�se./�nclu se a השחוtm tho �puhm�קוד /tvr-m�dences.\�"
+suto-a "ש-miccrotb(w ק�>."
+�r "hen enter '32-~% 97(wmer-�ו
+msgstr euhm�ק�e�se�ר�)o(ui.pמח. Microthemer "
+"willl3� �97(w optional. If spe�ותue��-sill �\"אשר זה רלוו�a�rotheme�%f/�ro6ph�unc��מחלקוyast pi�וח can dhave purciC\" ��to�t�1vl�מ"�ס qph�u� � מייצר  The ins(rי�מי�incu do4ram �icroth,clesv./�nclu se���ל שapp�56
+m� מעמ
+r%the s "
+"טרadesders & selec%crothemer " ""
+"קIA�FqDes�yast pi�וח can dhave purciC\" ��to�t�1ד."p�ה למ�ח. Mir s%�t��ש �\�רyast pi�וח can dhave purciC\" ��to�t�1ד."p�ה למ��l מיקוד�t��ש �\%crothemer " ""
+"קIA�FqDes�yast  למ�stroיצוnns"��na�tvr-mdDF8
+an���\%�יקוד� can dhave pu
+#: ../incluet24�aratome o�cyast p ה�ncu dol3�ו� fu Entr�2�ג, cs include t��� כpa>yה."g�
+#: ../incld inc
+msgid "0r, ya)pt(�is" (m-m�.�ש0��es.php:67
+msgid "Always add !important to CSS styles"
+msgstr "להוסיף תמ�aי�ח canthe �r->.�is" ות CSS e �r->.�is" ות  תמ�aיnu."
+msg�aיnu."
+msg�aיnu."
+msg�aיnu."
+msg�a6
+msgid "� esgstr��ums� to percenta�acombinms�
+msgst�:"hem/"��ד�yles.Th'5לק�l2ם מעדיפים, ניo ידנית)"
+et=latin,lacludessbinms�
+7hemsp ה�n� �rthat ת �p:160 ../efauהתאים או n�nces.php:s�
+7he inp � י�רך thmsgid "Sav�נ�ck. 8���em7�o מ�ת "
+"p�Iישm�בלו n�nces.ph�
+msgsvT8
+msren
+"הממ�e�D�rthat ת � �sTP visite�לpome "
+"page or the last pSS sicrothemeror "ל��t�1vl�מ"�ס qph�u� � מיי�udes�0 ../trpack - l"
+"willlpemer-ui.p��t�1vl��udes/tvr-micvisite�לnות."
+�מ�ח. Mir s%�t4ram �icroth,clesv./�nclu �ו�ש �\%crothemer " ""
+"קIA�FqDes�yast  למ�str�לp3y�3maticrotheomudwxplicitly P lp/tvr-ms o� אפ�s o� אפ�su�� כpa>rrsg�a esv./�eaCu�לק.�eכון �2aturemerudes/tv��/sps Fר�in " ב�o as a top level menu link oror "ל��t�1vl�מ"�ס" (+at� מוש �\%crothemer " ""
+"קIA�FqDes�yast  �the end userreedend uand then ent�te pr:1032
+#:�לק.lves the issue ofs"
+m"
+s�ר(bouume 2���
+m�הת�מ"
+"תו�i�� 
+
+#: ../includes/tvr-micI�יונה או כ ophp:167
+Entr�2�acalculate 2�ה� �es.Tunit Icu"� it tac) is the st�t"
+msen:241 oscrothemer " "g�a esv.rst\" 2
+"wi" ""
+�  heme3othi evert� �ש ל\"סטט�מ"
+"6
+m� מ5ט�מ"
+msgstr ""�יל לע1microth2
+#: ../oge v"fiר(bor"
+mA��צה רלוו�E��-sill �\"אשר זה רלוו�a�.2hp:128
+msgid �"
+�her havS�תן לכ�h"�יל ', 032
+#:�n�  CSS eeludes/tds to "st\"� רלוiMicrot. "
+"tyle input�העלו�s/tvt of sh"
+msg7�o 7lllpemer-ui.�(dlדcludes/tpFnסD
+
+#: ..פ�s o� אפ r-mi ��,r "�. On initial insSsQם ה�צ�248
+msg link"
+msgi"
+ ofue ofs"
+m"%"g�a es7ת א להתח�atv�נ�ck. ני��s/tves/tdsOuicrot�הע�r euhm��ש ביחידות ea�u9�Ollpeme�/tves/tdsOuicrot�הO)לו�s/tv��d .xphemer UI pr \s. Tphp:1�../inc:217 ../
+
+�"�ר �2r witsemer-ui.py imag�0 ../efauהsg link"
+msgiitsemer%"g�a es7ת א ל/tvr-microthemer-preferences.phms� to p כד�ן י�rudayling it."�gSS3 PIl6
+msthemer-preferences.phms� to p כד�ן י�rudayling it."�gSS3 PIl6
+msthemer-preferenceמפורשs"
+msgstludes/"��ד�פעלת פ"�סp�S3 PIl6
+msthemer-preferences.phms� to p כד�ן טתl, �y andx6a�ו �e1�ושll �\"אשa�56
+m��� תייוclude�age vr-mif/�,msgidaf��h��o1iage
+�  heme3othi evert� �ש ל\"סטט�מ"
+"�tr��ums� t �ש ל\� לiink mer will licrothcludes/tvr-�אופן שונה �cui.phpuu
+msgi"
+ ofue ofs"
+m"%"g�a es7ת א להתח�atv�נ�er only generates a Google Font -mics/tvr-��iink mer will licrothcludes/tvr-,�<ור �ח�atv�� כpa>y�k mer will lcrotheomudwxplicP�i�אU חmincar will licrothcludes/tvr-,�<ור budes/tvr-,�wxpli��ו�rst of suggested CSS es.b�t�1vl�3vr-m�dences.\�"
+suto-a "ש-miccrotb(w ק�>.er-ui�צ�248Tludeso �D
+
+#ני�esign."�ר תm"%"g�a gעמ
+מ"aser��jer-preferen\�"r e�se./inct�r-miש-miccrotb(w ק�>.er-ui�."
+msg�לכ�h"�י� witsemer�ו g�a�f�:"��', 03יח�es/tvr-spt"gidrr��jer-paser��jtse./inct��uicrot�f spe�ו�s/tvt of sh"
+msg7�o 7lllpemer-ui.�(dlדcludes/tpFnסD
+�o"
+�her havS�תן לכ�h"�יל ', 032
+#:�n�  CSS eel�eferense a calincld ח�es/tvr-spt"ek - I4uemer ר �7�o 7lllpemeesign."�pemee5sitenk"
+msg�ות ee selecto�et S3 PIl6
+msthemer-pr%esign."�pemtg רמה �s/tvr-mi7,3he5�dוב � To /ortcut ieoptionr-proהגc.e�ותאם איש�r UI ps selector msgid 2o w
+"values. This I pr \s. Tphp:fr-ui.php:160 . evert� ��נה."g�
+#:lsed Microthemer you can enter youremer-e a cl when icrothemerתou �tencesgn."y0�ירת ה�adayling it."�gSSs I pr \ PIl"�tr��ums1vl�3 ol when g:�מ"
+"6ifוד opert�ת�siudes/uo�s%�tBling thdayling it
+"יה�t3he iCSS declag�פ�ה� my sus\"o<� 19uates  .5ge-siH .."�tr��ums� t �Y�d a o
+#:lse0�> (��הוCSn ente>ר ה�שתמש ב�R6�hp:893e generates quite a bit of HTMe a bi.tionc6If sp1rmh a browseaeguumeiudes/uo�s%�tBling thdayling it
+"יה�t3yles.Th'5לק�l2ם מעדיפים, ניo י� �Y�gid "Load a full  "PurchaseR6�hp:893e generatesudeso �7��siudes/uo�s%�tBlingproהגc.e"יציc  p:1020
+uו"xpli��ו�rs, -tiple e"יה�t3ylesר ה�שתמש ב�R6�hp:893e generates quite a bרישיו"
+msgid hp:160pack. It9ings�ר �rences.9sr s%�ts)"
+msgstr Load לה�a�l6
+2��d .xphemem� יוcludes�0i�רo�ioncג sr �7�.ey7ey6ers"to�et S3 PI33a�nvert יו"מפr:2411vl��ס. ריח ld "/tvr-spTd ho"cu"� �eratיחי�eהשתמש ב� safe-modo,"��trat
+"\"200aעדיפיratesudeso �7��siudes/uo�s%�tBlingproהגc.e"יצד הבדוhemer-ui.php:159 ..ecludes/tvr-microthemer-preferences. bouumיקיות"
+
+#: ..�גc.e"יsוtgynu."ltludes/tv'321s funca cali�r00aעדיכe se� עבורה."
+
+#: ../includthrasave Prern��מoth,cles,gynu."th�6��"
+ to �ופן msthemer�  heme3oth/tvr-microthemer-ui.php:262
+msgi�oroהגc.e"�rowseaeguumeiudes/uo�s%�tBli48
+msg liלת��to "הנחי�nce, �s�7�8ndes/uo.9s. The�ר �2r witsemer-ui.py ima a brow,clבורה."
+rothclnces.phm� �e#:othefroיnk oi�r00aעדיכe ai yourF ""
+�  hemferences.php:227
+msgid ""
+�alnces.phaylin7-ל7�8nrefelesר הd t"
+"ldr�ר �icroth,clceme3oth/tvr-microthemer-ui.php:262
+ "�.�7�8ndes/uo.ה</s�(bouume 2���
+m�התח�athemer-uinage-siתg  es/tmre�י�mיו"
+msgid hp:160pack.icroth1
+o.ה</s�(bou�� אccasioofue ../include�5 ever�applie"כל
+aיcwrom theoi yourFo�ul if 1�מש ב�Rזהauר(bostyles"
+msf youש ב�./includU( g4�Go Taceme3oth/tv informatitr "ל�tg link"
+msgi"
+ of�.phpm3oth/t/tvr-m�.�ש"Fo�sitenk"
+a� Tasgid "Ia55 ever"�ל�nt�te pr:1032l if 1�משthemeaes� the dm�.��לולmsgstr "עtr �ה."
+�er-ui�.er-ui�."
+msg�ורך). בrsion.sz30
+mg4�Go To /inה."
+�t�te pr:1032l if >�
+"� To �sr � �seoA1ה</span>.Ime oonly generates a Google Font -mie optionshe des�חa. O� התפרי�ציג "
+"תווית עם מידע נוסף ע�bd a seil�eferense a calincld ח�es/tvr-spt"ek - I4uemer �"תt�שר 2�ה� �es.Tu ion lab5-spt mer will l�chased Microthemer you can enter your email ae"Folders
+ms: Mngaah:106
+ p כד�emer " " seil�d pack "
+"fi�to�t�1ד PIl6 �6feren�וח�alnces.
+ms:alincld ח�es/tvr-spt"ek - I4uemer �"תt�הiנלu�os�vt of sh"
+msgn ""
+muates  ..�' �p."
+
+#: ..�7�8ndesc e�t�1ד."p�ח�es/�0/t of every style ה� �es.י�06hen enteI4uemMogle �ו�Ef��es/uo.ה</s�(boהשהp
+msgioonly generaידוe �c.e"יw youremer of sh"
+ms4ramthemerlorathi�hף%ge vr-mור�f�splay. Set t4�עון כ�-micray. Set unit automatica"xpli�o�a(al6
+msthlue li� מ�ן לג�e.php:3,&ד הב�2can qu/vr-micor aul-rp:fr-u/t of every P��roa
+
+#: .et"gidr� zisgs�\�"
+s�full rothothothot�מ
+r%the s "
+"טרadesders & selec%croth( �קתמd .xphemmsgn ""s\"o<� 19uaphemem� s/uo.ה</s:106�"
+
+r ""�יה"auרan���\%a�א .et�ע נוסף �elec%croth( �קתמd .xphemmsgn "ה תoורה."
+
+#: ../inclram byothemS."�pemtg רמה �s/tvr-mi7,3he5�d�es/p"�and   there 82iS ve� zisgs�\�"e�et�(boהשהp
+msgioonly gene �nv3CSS ee��t%שחר the t"E�(othothemer-ui.tnpour eum threais pagלumsgstr��a�rat�gSS wrsetgid of sh"
+msgn ""
+�ורר 7 ומט�ihe t"
+ בט�a�ratgד PIlg��ל ../�6�the end us�ת"
+
+להתח�athemer� ../includerתouudes�עון d ח�es/tvr-spmsgstr��a�rat�gSS wrsetgid of sh"
+msg �1fes.h( �קתמgioonly generaידוe �ccludthrasave Prern���od   C �ccEntr�2�acat�(boהשה./itg רמ�eCe-wpr desi  there 8D��-nlie"כל7eraידוe �ce��t%של�od   tr�2�acat�(boהשה./itg רמ�eCe-wpr desi  theree a bi.tionc6I�q-8tica"xpli�o�a(a\i/efauה�כe ai yourF���od  לג�e.php6IE"
+msgstr "כל גרסאWTkl�efe/
+�מ�ecat�(bo�quite hdes/uo� "�. On initatome o�crothe��לr "pixels into rting  ic ב� saf אccasioofue ../include�5 ever�applie"כל
+aיcwrom theoi yourFo�ul if 1�מש ב�Rזהau�o3eg�a e
+a� ��>heedia �to "המ�eCeCהתח�athem generaידוe �c.בעמו��l2ם מעדיפים,the��ל the Ihelp en'�מgioonly generaידוe �ccludthr % and more. If "
+"you set one ofwF2o>he des�חיד��henly geo�a(a\i/efau�eppT0וe �ccludth % and more. If �he ins" (+aa-preferences.C31ידוe �ce�6 ית� 82idng  ic sign �tvrn "1חול �hp:220
+���gstP�\u "
+"�iנלuplue/erתouude7lic ב� saf אccasioofue ../include�5 ever�applil��יc  p:r desi  th תoורה."
+
+std�5�j  CSS eel�efC31ידו""
+\��r(.phpuu
+msad.o�t Defioofue ../includroth1
+o.ה<rre. If �he ins" (+aay�E�:fr-ui.php:160 .le �ce�6 ית� 82idng  ic sign �tvrn "1חול �hp:nrefele�th,clcש�hp\1ידוe th,clcemiinto rting  2id "�7ת א(r�8�daspt"ek - I4uemer �"תt�שר 2�ה� �es.Tu ion lab5-spt ( �קתמd .xphemmsgn ""s\"o<� 19uaphemem� lסאWT\(bostyles"g�פ�ה� mosggz:"mer-u �r ש�d../i,d�ח giuudxphemmsgn ""s6o8חבpווgSS wrsetgid oflabels for further informatioans tיד\hC�c.e"�rowelemeu io_��ן msthemer�  heme3oth/tvr-microthpווgSS wrsetde-7wsers"
+ing."
+msgsnrefeothemer would convert this to 3em. The extra '2' "
+"parameter is optional. If specified, the context of the nth element would be "
+"used if the selector matches multiple elements (rather the defaulting to the "
+"first element in the selection)."
+msgstr "מ�eCe-utmi7,3he5�u.giigt of weTe "
+"uson\"
+� אcn the syioans t�ele"", י�d>aspt"intoTludeso �D
+aPווgSS wrs8./include�5 
+"תווית �ת �ווית �תd��\�9לו�s/ea�u9�Ollpeme�/tves/tdsOuicrot�הO)ל�wp3f��h��o1iage
+�  heme3othi evert� ther tht�ת�siudes/uo��feme�/tve%""
+�  heme3oth1>u�eכון לג�ת�ת �תd��\�9לו�s/ea�u9�Ollpeme�/tves/tdsOuicrot�הO)ל�wp3f��h��o1iage
+�  heme3othi eme3othi aik - I4uems, % and more/includs.Tu ion labוספ�'��p�xm bit niק�>.�:"alnces.
+ms:crot'�ons 8s- I4uems, % and more/id morsetgi"you set one ofwF2o>he des�חיד��henly ge  tr�2�acat�9nt in the set Icu"ת� ס60i��\�9לו�s/ea�u9�Ollpeme�/tves/tdsOuicrot�ה9��טי וורדפ�u41 of e��rthe set Ic: ..�7�8�i�4�ך בלוח בלוח ר זה more/i4 the syioa.�ת עmyr�2�acat�<yhe set Icu"ת� ס60i��\�9לו�s/ea�u9�Ollpeme�/tves/tdormatitr er the defau����ת�ת �t���c%croth( �פ - I4uemer �"וית � ( �ק�Cyamati(rather theaנhlue li�nd>-C2lic בr er the defa�u\d more/includsu1
+mude�ו�s/ea�u9�Olof evers/uo� "�. On initatf you "N�הs t�el�t Onmsgid 2o wa�ית� 82idng���henly ge  tr�)h��o1mati(rather theaנhlue li�nd>-C2נhlue li�n more/i4 the wrs er therowsertnerates, the context of the mer will l�chased Microthemer yot��\�9לו
+msue . זה רהi�בץ CS ב�מחלקוy�l(w�צו גם � oSy l�chasedהiנלBl2h element�t3wOuic�דוe לו
+mscrotheme�� �ת �וו�.e context of the � safe-modo,"��trcan qu/vr-micor aul-rp:fr-u/t of every P��roa
+
+#: .edormatitr er the defau����ת�ת �tm1�tica"xpli�l4abe�acat�<yhe�Rזהaursetde-7�r-spt"gidrr�alnceOlof ev��ro-ל7�,i7,3he5�dוב � To /ort�in \�m4�ך ב�o"
+�r "hen enter tsgstr "כל2חבpות
+mציchased Microthe
+יצוtgyדשr inspectsed uumeric value�ר �2r wit(2rso use =em(3%rthe defa�u\d\vr-mi7,3he5�dוב � To /ortcut ieoptionr-proהגc.e�ותאinspectsed4i�vwit(2rso2idng  ic sign �tvrn "1חול �hp:nrefele�th,clcש�hp\1�- I4ueces.php:20� using an alternative b "לen(d
+md
+md
+md
+md
+md
+md
+md
+md
+md
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�kid
+md
+�ki�אWT\(bostyles"g�פ��y andx6a�ו �>he5�dו�,(�שחו-co6� ל�o1iage loadipות, נ �D
+aPווgSg��rstr "יציcwis optional. If the nthu�לr "pixels  ther� ל�o1iage loadipות, נ �D
+aPווgSgL�php:893
+msgid "giuudxphem7Pportcut i.ontFmer-� �md
+md
+,ogcave Pers"
+י�a"xpli�o�a(alnvu6"
+msgstr 7y�יtde-7�r8�-ag2� ב� saf<yhe�Rזהdr�8emsp:188
+msgiam tho �phb�"וית � ( 2u�o0tr e�se�ר�)o(ui.pמחstr "יt133a�nvert, \"2000\" for a 2 secjot "
+"unl�ק�cludes/st iMt0i��\�9לו�s/�ים די ל�rst
+mude�ו�l"2000\" for�תח�athem\"ר�orothOnmsgid 2o pr8yl-n(d
+8 somegstr "ניהo'pFnסלים + די �tr "יציp:160pack. It9ings�ר �ren�rIf2nly ge�9לו
+msue r9sP��roa
+r�תח�athem\"ר�orothOnmsgid 2o pr8yl-n(d
+8 somegstr "ניהo'pFnסלים + די �tr "יציp:1�טרנט selAAg%,נט
+44�"
+s�ר(bouume 2���
+m�התח�athemer-uinage-single.php:188
+msthOnmsgi����athem\"ר�orothOnmsgid �� �es�2נheric valuDas�er נא isgoefites download� ��,r "�. pמחstr��o"
+�r ond d
+�r ondYan initatf you "N�הs t�elgle.ph.php:677%,נט
+44�"2נheric8 "giuudxps�fu�.�ש�pe�ris/tthem.Tu ל�tr��o"
+�r 6sry she syioa.�ת עmyr�2�acated .phoהגי� uld �� די �-�someg.e"י� en'on.sz30
+mg/inc:217 ../�Pnvert, \"2000\" for a 2 secjot "
+"unl�ק�cludes/wem\"ר�oitr er t�ectsedehכpa>yהrather-��e�6 ית>.�is" ostyles"nly generaידוe �ccludtr er t�ecemer-ui�thrates, the context of the mer will l�chased Microthemeva(al
+�kioo�a(ahOnmadehכpaיציp
+�r ond d
+�rrludid 2aי הyaveaCu�לק.php:2�דוe �ccludet Dep:241� 33a�nvert, \"2000\" for a  ther� es,�
+md
+m will let"gidr� zisgs�\�"
+cludet Dep"2000\"  �� �es�2נheltseded "Enter your owsZ
+msg�a6
+msg� �D
+aPווgSgecjot "
+"unl�ק 0ludet Dep"2000\"  �� �es�2נheltseded "Enter A�ע.2hp:128g���cludes/wem\"�-micI�5/efauה�כe ai yourF���ws �Microthe�t of everer�es�2נ2���
+m�התח�atbe��5/efauה�כe ai yoyע.2hp:128m\"�-sren.xph"Micrב � To /ortcut ieoptionr�קיה חדשה"
+
+#: ../includes/tvr-microt "המ�eCeCהת"ש-micמgioonly generaידוe �ccludthr % and more. If "
+"you set one ofwF2o>hY�gid "L�CSS specifiThp:128g���cl �cclu"המ�eCeC�rt, \-mi7,3he5�dובais pagלuwrom theoi yo�om theoi yo�ob��eCeC�rt, \-mi7,3he5�dובais paPו�292hp:128g�L
+s�ר(bouume 2���
+m�התח(ehכpa>,ences.9sle
+mוד ש�s" (>� �\%croth
+o.�00ai7,3he5�� תא4sgiitsemer,th,c� �seoA1ה</span>.�ובP CjU\�a. O� התפ�l �c"� To �sr � �seoA1ה</s1� cu"ת� סly g" a<To /ilu"הx�thrates, the context of the mer wi ב� saf<yhe�� saf<�ה �theme�שה"
+
+#: ../includes/tvr-microt "המ�eCeC� רלumsontext odownloadדרך. pמחstr��o"
+�r ond d
+�r ondYan initatf you �לen ins" (+atr "אי� ��e5�� תא4sg�R#Iישm�ת"2נheric87�downloadד�44�"
+ידוe d ofted .phoaיד �\"אלen in qu/vr-m�c"� To �sr�dddsosontext 7��f�s�gram. If ume 2�al6
+m,id "h� iMt0i���"וי�tions "
+�  heme3othi evert� �ש ל\"סטט�מ"
+"6cu"ת� סUadדps �t���c%Ut Ic�ת"2נiחa.� �es�2נheltseded "Enter A�ע.2h yourF���w"
+�ursetde-7�r-spt"gidrr�alnceOlof ev��r�סיף תמ�aי�ח canthe �oa
+"
+"למ�tsededstr 1�If2nlded e3othsheoi �r ond�� uldובaehw�0 �D
+aPווgee �oa
+o� o1iagevT8
+(eh
+msgid "CreateD+atr "i5ד S cphemer-��די�מ�eCeC�rt, \-mi7,3he5�dובais pagלuwrom theuwrom theoi yo�om theoiת>.�is"�l�ד�ר �ren�rIf2nly ge�9לו
+msue r9sP��roa
+r�תsyo�om theoutomatica"xpli�o�a(al6
+msthlue lתsyo�om�ה-muates s �t���ca�יD
+aPווgSgL�php:893
+msgiso�htepack "or �ו�.ef" ""
+",edYan incrב � Tthi evert� �ש ל\"סטט�מ"
+�s�opti3 PI.SS opti3 PI.S"pageer-selAAg%,נט
+44p:893
+msgisf��יצgaselect�0�m�בל�emeu a00\" for�"א�aes� tp:893
+msgisf��יצgisf��יצ� טתl,�o�a(alon 647Ieft� ��יD
+ed Micgct�0\pack. It9in underst�t���sf��ט טתl,�o�a(" ""rt,  1�Ifs אAת �ck. It9�  hemp:8�e�m" d\�ps �S�des/tvsoiC\" ��to�toת f s �t���ca�יD
+aPווgthemerתou �tence�צ�
+"זו שיך"" degmic�dו�קתמgioonly ח. Microthemer "
+"wil�eer-elAAg%  an\"s.php:167nlded e t�el�t Onmsgid 2o wa�ית� 82idng���henly nter �%ge vr-m"�sas�ת פiע�)8..�שת אתgלumsgsfor"�iנלupoאלen inincludes/tv�
+"זו שיך"" degmic�dו�קתמgioonly ��P21s functionalit \"posit��fr "י�esaf<yheאWTkl��he 7ohemer�hems/tf defae�iteלudes/p"�and   there 82iS version."
+msgstr "esig�ושi.phmer-uiער�address on 64 �"
+-lfyheאWTkl�/p"�and   there 82iS version."
+mss�oagים אוs/p"�ressusmbosit��fr "י�e�ל גרסאWTkl�efe/
+�מ�ecat�(b version/wem\"רם � oSy l�chasedהiנל)זו שיך"t�el�t Onessusmb�el�t Op:219
+ms"200a�
+"you set one ofwF2o>hY�gid "L�CSS specif,ter your email ae"Folders
+ms: Mngaah:106
+ p כד�emer ית>�דוe �c.�Ed "1חכד�emeCe>-elAtfwF2o>hY�
+#:�לק.l�טט��es�2נheltsedf everer�es�2נ2�גרסאWטט��e�ער גcclu"ה��o�a(alon 6ntext of p�xm bothemerתou gid ""
+"Th../includ'�ons tab"
+msgstr "ל�theae"סלים ���o�a(aש �nv3כ�ה �nיש 828r� ../r sgstr b "
+ui.p�str "י�he t"
+"\n-prefer�cu"ת� תא��tr "�"לult CSS 3כ�ה �n�e/i4 the sfor"�iנלupoאלen in�כ�ה �n�e/i4 thee 2�ללק�eי��tr "�"לult CSS 3כ�ה �n�e/i4 i4 th�כ�ה �n�e/i4 i4 tito Tather theaנhlue li�nd>-C2lic בr ' �
+msgss yourFo�ul ifב�./ מעמ:"emer-tiple elmsgn ""s\"o<� 19uaphe-o�a(al6
+msHTML. Hb25
+msgid �נחיו�nd 4�"
+9..�ש�to�t Dep:he-o�40 �D
+aPווgee ludes�uwrom t
+"unl�ק�Y�gi-o�40 �Ddeclaratלוח�5:217 ../
+
+�"�ר �2r witha.pמח"�ר"תt�rTe uldoad�"
+א� �icrot די �Emfa�uu"הx�thro� "�. On� �n�e/i4 thee 2� more.r your e(�L
+s�ר(a fullor"�ipagלuwrer thss  .mg/ifdyr�נ�/itg רמ�eCe-wpr desi  t+ates quitר(TML. �ישיa �ת �תd��\�9לו�s8p "
+�ormatitr�b�t�1vl�3vr-m�dences.\�"
+suto-a "ש�והiso�htepack "or��/itg רמ�eCהs t�el�t ה �nיש 828r� ��6age-sir�מ"�ס�emrsר(a fullor"�ipagלuwrer thss  .mg/ifdyr�נ�/itרה: on�תtln entegn �tvם � oSy l�chasedהiנל)זת �תd��\�9לו�7,Octionali: ../ert, \rt, \ל�yr�נ�/i.:"ag�P39g רtg  ic sign�tr "יציp:160pack. Iu\d more/in(Bnit auto9w �sr � �seoA1ה</s� תאfSy l�chasedהi�e5�udes/str nv3CSS ee��t%שחר the t"E�(othothemer-ui.tnpour eum threais pagלu.e c \rt �th,clc�מעדיe  Appf
+sutoa�r.a�dences.\�rsרogiZתי�\"saf9..�שת אתncludes�� manually�P39g רt5ד S et Icu"aליins" (לל�%on at t�בef iMt0i���"ו�crothei.php:13msgstr "יצoogle
+mude% an"permeלlic ב�yeft� ���s/tv��d .xה ח�אים את.""pag�פות
+7ד�ר �2r witsemer-uiב � �gios� to p כד�ן י�rudaylinop את.""h,clc�מ�ee" Anyus�o use
+#:�n�  CSS eel
+msue r9me�/tr�eschas�a����lr "�"לu
+�ormatiaVei.phFaomud-rcrlc a17 ../rtiram. If ume 2�al6
+m,id "h� iMt0i���"וי�tis�o use
+#:�n�  CSS eel
+m�Ifs אAת �gid nl�ק�c�\"saf9..�שrios� to p כד�ן י�rudaylinop את.""h,clc�מאם אישי
+"unl�ש ר�oלuwrom theoaveaCu�� י�rudaylC"
+"a.�(.S"pageer-seooadielmsgn ""s\"o<� �פ� לכל�כ� user-submitte�מודcludes/tvastr Loaיצ�efau����ת�ת �sQם ה���חstr��o"
+�r o�5י�nis pack "or u� רga eleC�R#: : ../��"ו�c heoavewml"pagee�rudayl hothemen packs m"u� iMEn geermen pack"perme�e �nv3 בלוח בלen ayl �  there 8l�ש �w ח�איll �\" "6it in��trathiק�m"u�wte�מ�_-\" d\ br-ro6ph8מח�i��ק�ver\" d\eלות הק"�
+-lfyheאWTkl�/p"�and   there 82iS version."
+m"�. On חיו�nd 4�"
+9..�ש�t 4�"phemmsgn "ה תoורה."
+
+#:  ../inc isgoefite<�ה הht of�lu"ה�sr"aל�N/oge v"fiר(bor"
+mA��chasedהi�e5�udes/str nv 4�"phemmsgn "ה תoורה."
+
+#:  ../inc isd userredess� the  �תopehems/tf e instruct��r-UCS�הwוoad a he��לש�to�tset�ןin bar, ya)p eaבלen ayl �  the���e
+"Th..,agלu.e�fu oeoiתe���e
+"T4id hp:160 ../tr�lC"
+"a.�(.S"pageer���ת��nuume 2���
+m���_-ressuston at yin(Bnit �לen ayl �  the��t
+mudeמ�_t PIlg��k a 
+msgstr .php:12aturememsgstr  udesg�� �ת��דl he 7ohemer�a��f�"�ישito  heהht of�ae"ג yor-�או�tr er t�ecemer-ui�thrates,�ccludeתמ�aי�חes/tvr-,�<ור budes/tvr-,�w�pecifieu�oו�w-ui�thra,�<ורstr .php:12atr .php:12atr .php12at�lC"Trvastr Loר bud��N/oge v"fi הטע/tvr-sgstr "לאememsgstr  udesg�� ��7,3he5�dוב � To /ortcumemsgstr  udesg�� ��7,3seoo6ph�u� ��7,3seoo6ge�9לו
+str�(.S"p'nit �לee c \rt �cח �e ins(rי�מי�incu do4ram �icroth,clesv./�nc 5�udes/str8 The ins" (ל77����וees/tvr-spt"ek - 4uemMo youre�חור חבי�o use =auto-c   there 82i�   therer-uiור ח� ../tr�lC"
+�Breferenhemer "
+so use =� n8.� חב�ש�rre��SgL�php:893.xphemer 
+m,idrer-uiור �a4�לen 0�n8.n�rIfr8.�  חmincar will licroth5Zתיp"
+so us(es�2נ2��thotho Micck.v5.ee�rudaysgid "Fo4ש�to�ts.%on a�nd 4�"
+9..�ש�t 4�"phemmsgn "ה�:"eme r tht�ת���הd t"ל�tr��o"
+�r 6sry she syioa.�ת mshemer-uinagl ��ns(r�ש�cck.v5.ee2.evert� �ש ל\"סטט�מ"
+"�tr��ums� t �ש ל\� לiink mer will licrothcludes��o"
+�r c$�ה9�� iCSS deicitly P lp/tvr-ms o� אפ�s o� אפ�su�� כpa>rr ru�י�ש-miccrotb(w ק�>."
+�nct��uicroto)use =auto-ciנלB-uinagl ��ns�>."�יו�n�oaicrU /include-7wsers"
+msgstr�מ"
+CeC�rt,s o���ן טתl, ,�D
+�N/oge sf��יצgisf��י. ns�>."���to�tset��ion."
+msgstr "esig�ושi.eersck.v5.ee2.evpicrot�sr �r 6srins"
+�  heme3oth�oורה."
+�
+m�הdesg�� ��7,38r wil8�rs,  more.r �ית� 82idng./includ89�  a�nrothOnmsgid =� n8.� חב�ש�erense a cלקוy�er-l, ,�D
+�N/oge sf���
+�N/ogb�ט
+44p:-sncck.v"T.�7�8ndesc e�t���tr "יציp:1�טרנ�emer �r-uiור �a.e sf���
+�N/ogb�ט
+44p:-sncck.v"T.�7�8ndesc e�t���t� בל
+�r 6sry shk"permema�nvemer-ui.p��t�1� ר�oלuwr��es/tvr-spm�te pgeermenת
+7�
+"<spanclude�5 ever�applie"כ- fulloru� iMEn geermen ��ש ר�o�   �YC�r 6sry sh��Bבלeerm 6sry :  ../inc i:160 tvr-m�6�aomus"
+msgstrca�nvemer-uiemerתou gid ""
+"Th../includ' iMEn2<�muate�5 evvr-sgst,� �giosns�ne r9o�Ruונהr:�./�nc 5�YC�rom�ה-muates s �t���ca�יD
+aPווgSgL�sv./�nclu �soor ""
+""032
+#:�לק.lvee a bi.tionc6I�q-8pFnסD
+�o"�re.r �ית� desi  tsv./�ncmuat%on 8
+�er-ui�ud' iMEn2220
+��agee�rudav"T.SS3 PIl6
+msthemer-preferences.phms� to p s2o w
+"valm�הti.es/t� them�ה-muates"2000\" for��h� the Ihelp tor ue�ת� 82idnges.phms� to p sinitatom 2000\e&ופן msthem�nc 5�YC�romr desi��er 
+m,idrer-uiור �a4�לen 0�n8.n�rIfr8.�  חminc�.2hp:128
+msgid �"
+�her hav�ispe�e1
+mui��er ek. It9in umsgid �"
+� �royouyלen ayl�no
+#: ../inclram byothemS."�pemtg �%e2atr .phpות הק"�
+-lfyheאWTkl�/p"�andr .p.� fwF2o>erer�es�2'�ac ר�l u3 Prer�es�yos�5�YC�romr desi��erw� 82idnges.phms� to p sinitatom 2000\e&ופן msthem)ם �rothemer-ui�b "
+ui.pמחk"
+a� Ta desi��e��7,/incluset Ihm��ש5c�/itרה: �השהp
+msr
+ms4resi  t+ates qu.htvr-mi7,3he5d
+md
+�ki�אW\" d\ite m 2000\e&lr "�"�a,�WTkl�/p"�ao gid ""
+"n at t�בe�era ""
+"h��Bבלeeri.pBlingproהגc.e"יצד ה��160pack. It9s%�ד �� ��יDhems/t" Any imageseref�נט� understae�יג iof HTML. umsnיש "�licrs�1vl�מ"�ovt" Any imagesציp:1vl�מ"�ovttcut iingoVגc.e��5:217�YC�romr desi��er 
+m,idrer-uiור �a4�לen 0�n8.n�rIfr8.�  חminc�.2hp:128
+msgid �"
+�her hav�ispe�e1
+mui��er ek. pt�י�incuuicrot�יp:1vl�מ"�ovttcut iingoVגc.e��5:217�YC� d\eלram) ayl�no
+/f��תou �hothotho�c.e��5:217�YC� d\4uems, %וt�se0\" for��h�t(emer UI Tro�Qsl
+�N/ogb��ems, %ו��את r sgstr eull �\" "6it cua8u�ן�מ" it
+"י)�phpול7�8er5for��h�5c�/it� �ש ל\"�sd userredess� the  �תopehems/tf e instruct��r-UCS�הwוoad a he�יתw�rr�.ph8nde�el�t Opsi  t+crdvownloado�Qsl
+�N/o�) ayl�no�ס�fiר(bor"sr "ה תu�fwF2o>he du�gid �"
+�here  heהht of�ae"לc�N/o�) des/"��ד�פעלת פ"�סp�S3 ות, נ s�-ogb��e2o>he d�p"
+so us(es�2נ2��thotho Miccksi  tsv./�n�d .xphemmsgneraידוe �ccludtr er t�ecemer7
+� �royo3 PI.SS opti,z�-ogb��e2o>he d�p"
+so us(es�2נ2��thotho Micstr eul� תייוcluiק�r-pr/in��tratf�, נ s�-ogb�U�ri3C���ca�ga�
+44p:-sncck.v"cratf�, נ s�� d\4ueעלת פ"�e2?9�u�oeo y
+gi%sack "or��/i�"
+CeC�rt,s o���ן טתl, ,�D
+�N/oge sf��יצgisf40 �Ddeclaratלוח�5:217 ../
+
+�"�ר �2r witck.v5.etr .p�s� t �rting p-V� s��thetha.pמח"�ר חe�3�י ק מf you "N� MVs
+ �c.T8e8�נ s�uves/tdsOuict"
+msgstrC�romr er�hems/t9orothOnמf �לת פ"n��" it
+"י)�phpול7�8er5for��h�5c�/ieeversion/wem\"רם � olua(al
+�ko�ו n�uremer-e a c/includ d�pEgcrUtes  ..��Bבלeer� ל\"סטט�u'matitr "ל�tg link"
+msgi"
+ of�.phpm3oth/t/tvr-m2 ../i,doasion/i�/ונה מf you "�ר l�p � י��4uemMo 6ill0 tvr-nbt �rting p-Breferenhemer "
+so use =� n�itted "
+"des� �tm1a8�)LaQדוe �ce�6 יתnu�xmmers downloadדרך ל Mn�itted "
+"dר �2r witck.v5.etr .p�s� t �rting p-V� s��t�ce��t%של�od   tr�2m�כאW\" d\ite �
+7he
+msgstrC�romr er�hems/thotho�m4h,clc�v5.etr .pdg p-V� s�o p כד�ן r�es�y�si  t Trow "N� the \" -modo,"��trcan qu/includeuo�sgstr m</span>.�ת"
+9..�ש�tadud/tvt of shgstrC�romres/tvr-microt�hi�hף% w
+"valm�הoו�9..�ש�tadurC�hpות הק"e1� �n�e/i4 the sforoad a he�יתw�rr�.phיתnf imagesציp:1vl�מlua(al
+sutoa�hems/nchasedoבלeeri.pBlingproהגc.e"יצדe 4ra�5:217 "or��/i�"sa%/thothoI�.2hp:128m\"�-sren.xph"Micrב � To /ortcut ieoptionr�קיה חדשה"
+
+#: ..�-ogb��gn "�so us(eshe  �nopehn�"P�m - שinst�ptionr�קיה חדשה"
+
+#: .i��er�קוy�be�ac��oll �\" ".p�s� t �rting p-V� �עדיstrC�romr er�hemr�2�acated .phoהגי� uldceme3oth/tehn�"msgsג, csa w
+"vl calm4h,es/tdsOC���ca�ge"41
+m(���תd��\s(eל הנerense a cלקוy�er-l, ,�D
+�N/oge sf���
+�N/ogb�ט
+44p:-sncck.v"T.�7�8ndesc e�t���tr "יציp:1�טרנ�emer �r-uiור �a.e sf sf���
+�f ybr.""pag�Dt7so p sinitau1 s��t�ce��a��icer �r-�A�o  ../inc i:160 �: .i��er�קוy�be�ac��oll �\" ".p�s� t �rting p-p:128g�adinefitepack "opehn�"P�mcludes�m4h,clc�v5.etr .pל Mn�itted "C3he  �nopehr � �seoA1ה</s1 נ s�-ogb�U��bor"sr "ה תu�f�ש 828r��oasion/i38�ludroth1nd>-C2נhlue li�n more/i4 the wrmuat-s/t9or�
+"י)�s for e tbsgisf��יצgasמח�i��צדe 4ra�5:217 "oack "opehn�"P�mc-mi7,� �tm1a�ר"תt�,.er-uiור �a4�לen 0�n8.n�ae"ג yor-�או�trl��\s(eל נhlue li�n me�erense a cלקוy�er-l, ,�D
+�N/drh2hp:128mo9srsאו�trl��\s(etidng���ho �oll �\" ".p�trl��\g oSy  e instrucgpr��תמgipaser��jtse./inct��pr \s. Tphp:1�../inc:217 ../
+
+�"�ר �2r wiw�yd
+�ki�אW\" d\ite m 2000\e&lr "�" my susר(bouume grphprוoad a fu s op em (or rst\" anr-�d>,clc�מעדיe  Appf
+sutoa�r.a�dences.\�rsרogiZr2 �2r wiw�yd
+�ki�אW\" d\Vi�n m�1vl��udsr
+ms4, eull �\" "6 ll �\" "6 ll �\" "6 ll �\" "6 ludes/tpF tsed4i�id "L�CSS specifiThp:128g���cl �or��h� the�ת פ"n��" it
+"י)�phpול7�8er5for��h�5c�/ieeversion/wem\"רם � olua(al
+�ko�ו n�u../inc�romr d�d�יstrC�roor7lic ב� safi��06�s4, eullהo'pFnסלים + דןs4, euclcש�hp\�ספצd �07lic ב"
+"p�� �ersion/wem\"רם � ol-�d>,c��h��mB \"רם � olu��t
+m�.e"dinc i:160 t6 ll �\" "6 ll �\" t,s o��oclua(al
+�ko�ו n�u../inc�romr d�d�יstrC.��es/tvr-spmll �\" t,s oה.$�ה..��Bבלeeu set ouludes/tv""
+"el�pl �\" "6deל ה�U ח�l�" mtr "ניה/inc:217 ../
+
+�"�ר �2r wiw�ytf�,d�fd�יstriw�yd
+�ki�אW\"�>."יט3sg ה�U ח�l�msthem�ק"�
+-lfyheאWTkl�/p"�and   there 8sthem�ק"�6�Tkl�/p"�and   there 8sthem�ק"..��Bבלut b6it in�b.��Bבל�דcludes/tvd"el nt-ser Ugb�U��bo"�ר �2r wiw�ytf�,d�fd�הu"P�mc-mi7,� �tm1aNlg��k a 
+msgstr .php:12aturememsgstr  udesg�� �ת��דesthem�ק"..��dsg�� ���חלקוy�0b w
+"vl 
+7�
+"<�r .phpU�CSS specifiThp:128g���cla�5:2eoI7wsers"
+ina�ר �2r wiw�ysion/wem\"ii38�lud�des/"��ד�rnse a ccla�5t�st p ה�n�"eעלת,3he5�dr wiw�ysioר(heאWTkludesg\�rsש�to�td���ח7sion/wem\"ר�ere  h�r .p6\"מגת ה../incased Micro./inclu289� l�u
+msal� ../in0a��ח7siere �   there 8ssש�to�td���ח7sion/�ט�u'mr 1�If2nlded e3othshehp:13h�"י)�phpו�שה"
+
+#: ..�-ogb��gn "�so us(eshe  �nopehn�"P�m - שinst�ptionb25
+msgit b6it r "�"לuhkct00 �ת��f�ו שיך"" degmic�dו�קתמgioonly��וח�5:217 ..�u../inc�x4ee tb �\" "6 ll �gio���מ"
+"6
+m� מ5ט�מ"
+msgstr ""�יל לע1m�ni2r wiw�yd
+�r�t00 �תltrC�rooer�hems/t9I�.2hp:1 "לen(d
+m8st itrC�rooeam�.e"dinc ibe g%,�pgeשחו-ooer�hems/t9I�.2hp:1 "לees/"��ד�rndrer-ui�v(dבלutי)� נ �D
+אלen insoקיה חדשה"
+n itrC�rooF�uד�rnd�ever�aas�ת פsry sh��7
+"v�t
+m�.e"dinc i:160 t6 cld ח�es/7udes� instrucgpr�..�ש�tadurC�hpותr�..�ש�tadul212aturehemill �\tht�ת���הd t"ל�tr��o"
+�r 6s4utי)� נ �Dpack "opw�aas��lschasnsoקיה חדשה"
+n itrC�rooF�uד�rnd�ever�aas�ת פsry sh��7
+"tBere 8sthem�ק"�6�Tkl�/p"�and   thיה חדשה"
+n itr�renatלוח�5:2aי)�phpוitrC�rooF�
+�N/oge �הs t�el�t ems/tsoק��YC� d\e�tי)� �n instrucgpr ��to�t�1vl�מi  t Trow "N� the \" -modo,"��trdעלת,t, \"2000פsry V   �2r w�יo י� �Y�lir ��to�t�1vl��/p"�and   t �נחיו�n\" "6efites download� ��,r "�. pמחstr��o"
+�rsiong�ר �
+�"�ו��לת,t, �\" "6 ll �\" "6 ll �\" "6 ludes/tpF tsed4i�� ayl�no
+#: ..ern���
+msgrates quite a bרישיו"
+�פעל�h��to�ts.%on r��o"
+�rt S3 P �tm1a�ר"תt�,.erdes/tpF 8crUtesui�v�Utesui7a bר6
+msH�ems/t9r�ש�cck.v5.ee2.evert""
+�  hemfeק"�6�T des/"��ד�פעל�adedoבלeeri.9\g oSy  e i�r-e a c/�%g�.ern�r-l, ,�D
+�N/es�wiw�ytf2des/tvr-micr
+
+es.uo� uldr�ר �icroth,clesvr-micrludes�m4h,clc�v5.etr Isil�ש�tadud/tvt of ��at t�בe�/ea�u it."�gSS3 PIl6
+msthemer-preferences.phms� to p כד�ן�rn�r-l,���hr "ה תw�hו�n\" "6efites downloams� to �1mo"מג5 uldr�ר m(���תd��\s"opehn�"P�mc-mi7,� �tm1a��phemmsgn "dr�ר1�ל
+s fo� cu"תשs� to �1mo"מג5 geratיחי�uicrot�t"
+msen:241 oscrothemer " "ged e� תמשs� to1a��phem �n inmd0� es/tvr-0ver�applie"כל
+aיcwro"�t�o ז1
+reviehe des�חיד��hemerן ל visite�ל�ע�8er5for��h�5c�/ieeversion/wem\"רם mr d�d�יstro �1mo"�רם � o�2�acated �>liA
+ d\eלות צ�r " "ged e� /wem\"רםo�o/tvr-0vere./incth�ס7dו�קתמgioonly��וח,clesvr-mic�8.n�rIfr> p� �cck. צ�r \" d\ ing %sמחd� �rtin\" .��Bבל��rudaylתן ל visi�r-�א�ntv�
+"�soקיהשחוtm thoufr> p� �eo �1mo"�a.tionc6I�q-8pFnסD
+�o"�re.r �יתךdes/"��ד�rnse a ccla�5tpFn�" it
+"י%" "6 ludes/ts� it
+9p� �e�mc-mdes/"�2r�ר �iWu io_��ן ms�hprוdion/winitatom 20oלuwr��es(� ol-�d>,ca�5tpFtי%" "6 rsion/Prer-ui�8�n/wdm'�60 �: .i��er�קוy�be�ac��oll �\" �
+7ד�io_��ן ms�hprוdion/�U��bo"er�hems/t9Iusc
+msg� �D
+aPו �inst�ן r�elתן לh��Bבלee�rons" (+aa-preferences.C31ידוe שחו-n./
+
+�"�ר �l��he 7ohe�no�2�acated �ן r�e��soקיהשח�ל
+sdh�r .p6\"�1��ר"תt�gSS3 PIl6
+mslt't in��toeciuld be "
+"used if the selector mahe5 then en/ לh��Bבלee�rons" (+aa-prefere�i
+uו"xpli��ו�rs, -tiple e"יi�n��toeciul��( � o�2�acated �>ln�שח�fsgn "dr�רo"
+ina�ר �2rd�קוy�be�a2ki�אW\" d\iו"xpl
+�r "hen�hף% w
+"valm�הoו�9..�ש�taduty-preferenceoלhwcludtr er t�e..��Bt�(boהשהp
+msgioonly geol �t0i���"�7eraידSS 
+msgst�וydes/tvr-micre�(boהש��3Aed �ן wcludtr er t�e..�cludtr er �Bבל��ru.php:13msgstr "יצoogle
+mudesgid����יתןin bar, yorat�יc  p:10t��tol��( � o�2�ae r9o�Ruv.l��3Aed �
+msg�ורך). בr6�hp:893e t�י�aa-p�I�q-8pFnס"permeלlic ב�ye ��7,3seoosl��3Ae"�רe5siten" ""
+",fr-ui.p/�c.e"�rowe� email a6Nor-�או�tr er t�ec�רe5siten" "e
+
+ayora�t0itr�2�acat�(bo�.p6\"�d� ��,r "�. pמ+atr�ast p ה�nchemero�ס�ot�t"
+msen:24ך). �oadדרך �re.r �יתךdes/
+�"�ו��לa�t0itr�2i.p��t�1vl8utr er t�e..a,�ח nt-sillMes/tdsOuicrot�הר�2ll �\" ".p�s� t �rti  רהi�gid 5
+ayora�t0itr�2�acat�(bo�.p6\"�d� ��,r "�. p�רך ��\s"opehn�"P�mc-mi7,� �tm1a��phemmsggee�rudayl h9coor��h� t��\" �
+7ד�io_��\" "6 l�שח
+"תו�nclu2iE ccla�5toSitr�2�aver�applie�)� �n inst2�acat�wsers"
+in�acat�(bos/span>.��y�r�applie�)� .of eve(bos/span>.��ח�es/�0/t oתו�nclu2iE ccla�5toSitr�o�או�tr er t�ec�רe5siten" "e
+
+ayora�t0itr�2�acat�(bo�.p6\"�d� ��,r�rooF�uד�rnd�acds4, eull �\" "6 ll �\"  sinitamsgioonlyd Microthemer you hemer  pac "�. p�רך ��\sr� za�ר"תt�,.erde�eft� ���athemer-uinage-siתg  es/tmre�י�mיו"
+msgi-pan>.��ח�es/�0/semer,th,\1�-מ"
+"vr-micr,aיונת �י)�phpו�ft� ���ateopehp��/tvic�dו�קת�. �iWu io_��tludes/tv'321s funca cali�mer,th,\1�-מ��. �iW"
+msgo use =aut imagesצ�)� ../
+�ft� ���at6l��סo�.pC"
+cludet Depלקוy�,cl!�ה  you hemer  p5Ai.p��t�1vl8u', 032 use =aut im7�ו"w�)�php�8�n/wdm'�60 �: .i��er��r o�5י�nis 
+msgi-pan>. yo�om  ".p�trl��\g oSy  e instrucgpr��תמgipaser��שr � �seoA1ה</s1� c"wem\"רםo�o/tvr-0vere./incth�ס7dו�קתמgio�j 4sc e�t���t� בל
+�r 6sry shk"permema�nvemer-ui"e
+rting p-V� s��t�ce��t%של�pack "sw�yd
+�"  sinitadu"e
+rtin�v1 � To ee��t�שת אתnet 0�gesצ�)� ../
+�ft� ���at6l��סo�.pC"
+cludc�y�be��וs/p"�dr�רo"���t�ת�.gdהiנלBl2 82idnges.nse aמgip��h,\1�- ל\"�-nbt �yse =aut im7�ו"w�cdsOuicrot�הO)ל�Tgip��ht4ho"cu"� o"���t�ת�.gdהiנלBl2 8 בל
+��d\ite mwxpli���eclag.pC"sOuicro"�ר h2a��phemmsg:-sncck.v"T.�rot�הO)ל�Tgip��ht4ho"cu"� o"���רדפ�u41 oliniחד�cyk "opw�aas��lschaswnloams� to �1mo"מג5 uldr�ר m(�ldr�o"���t�� �tm1a��phemmsggee�rudayl h9coor��h� t��\" �
+7�r Loaי�mer-uinp�at�(bo�./p"�d,p.tionc6I�q-8pFnסD
+�o"�rep�הgn "ה nges.n�"xpli��ו�rs, -ti�(�ldr8��לa�t0ik "opw�aas �
+7�r ocoor��h� t��\" �
+7�r Loaי�mer-uinp�at�(brסD
+�o"�aas �
+�7,3seooslase�ר�)o(ui.pמח. Microthemer "
+"willl3� 8pFn�mer-uinp�at�(brסD
+�o"�aas �
+�"�d� ��,r�rooF�u�.(� nges.n�"xplsתייוcl"xplsתייוcl"4uemMoglpw�aas אפ�5c�/rredess� the   �
+7�r ocoor��hncluהm�ou gidה</s1�  ems/tf defaes�>."ג yor-�א�aas � the syioa.
+7�r�ת6aas �ludeversi-si cclaitenkll �\" ".pיולeguumeiudes/uo��ou gidה</s1�  ems/tf defaes�>."ג yor-�א�4oslase"
+�rti eme3ot olinapan>.at�(bld ח�ev7��תמgipas ol-�d>,/tf deat�(bo�./p"�d,p.tionc6I�q-8pFnסD
+�o"�rep�הgn "ה ngcgpr��תst,nehn�"P�mc-m
+msr
+sC��ou gidה</s1�  ems/tf defaes�>."ג yor-�e wi osui�v�U"�r<"�6siתg  e�P C
+7�r Loa�e li�nd>-C2lic בr 'n � nges.U\הiנ
+msg� �\srg� �\ �
+7�r-0ver5/tfd the  ��s1�  ems/tf defaes�>iור �a.e sf���
+�N/ogb�ט
+44p:-sncck.v"T.�7�8ndesc e�t���t� בל
+�r 6sry shkoבל�השה���t� בל
+g� �\srg� �\ �
+7�r-0ver5/tfd the  ��s1�  ems/tf defaes�>iור �a.e sf���
+לthe  ��s1�  8o�6siתg  e�P C
+7�at�(bmsg�aיnu."
+msg�aיnu."
+msg�a6
+msgid "� esgstr��ums� to percenta�acombinmeor-preferi"� o"���s"9��u."
+msgל
+g� ��uat--C2lic בr 'n � nge7,3seoosudeso
+msg�a6sתייוcl"xplsתייוcl"4uemMoglpw�aas �ovn ins" (+atr "אי� id 5
+ayoraas �ovn "4uemMo,� mwxpli���m0itr�2�acat�(bo�.p6\"�d� ��,r "�. p�רך ���.p6\"�d� ��,8s1�3 ac��ol(+atr "ג�e.)שה���t� בלe7,3seoosudeso
+msg�a6sתייוcl"xplsתייוc0t\" 2
+"wi" ""everg_ייוcl"xpo percenta�acombinmeor-preferi"� o"���s"9��u."
+msgל
+g� ��uat--C2lic בr 'n � nge7,3seoosudeso
+msg�a6sתייוcl"7�r omraas7�Aon7,3seNrot�יp:1vl�מ"�ovttcut iingoVגc נ�degmקוy�be�o Taceme3oth/tv in-���7,� �tm1יוcl"x�aיnu."
+msg�/tvr-spI��ו�tr:iנ
+msg� �\srg� )l�e7,3seoosudeso
+msg�a6sתייוcl"xplsתייו0�t�kid
+md
+�kidtr "�9to �1mglpwer t�e..a,oNrot�יpwged e� /wem\"רםo�o/tvr-�7,� �tm1י thיה חדשה"
+n it�</s1� c"wem\"�2��thothr-sgstr-�אr-e a c5eeversion/wem\"k. Iu\dd e t�el�t Onms�yast  �the enduicro"�ר h2sstm1�ticayouש �ce��t%של�p�תמשs��er5/tfd the �ה"
+nwem\"k. Inis 
+ms  udesgu/vr-micor aulgu/vr-�nסD
+�o"�rep�הgn "ה nיי�ה"
+nU( g4ת6I�q-8siתg  e�P C
+7�r Loa�e li�nd>-C2lic בr 'n � ngn>.�� �רלnst2�acat�w� nge7,� �t9lsgee�rudayl h9co"P�mc-mi�\"�sd userredesebi.tionc6I�q-8pFnסD
+�o" �ccludet Dep:241� 33a�nvert, \"2000\" for a  ther� es,�
+md
+m will let"gidr� z"e
+rtrt� ���athemer-uinageal(+atr "ג�e.)שה���t� בלe7,3seoosudeso
+msg�a6sתיי�uat--C2re�(bo� �ישito7�r ocoor��hncluהm�ou-uinppFnסD
+��uat-adiptי)� נ �Dpack a,emerlorathi�hף%ge vr-mור�f�spla���
+לthe  ��s1�  8 s��theogb�טoFnסD
+�o"�3s
+ms: Mngaah: p�רך ���.p6\"�d� ��,8s1�3 a�cck.v5.ee2msg7�o 7� �\" "6d enduicrאי� �\" "6�udtr er t�ecemo 7� �\" "6l"xplsת� �es�2נhe-C2ligeneraיs  �תopehems/t �\" "6d eיה �2�acated�gip��h,\1�- ל\"�-nbt �yse =aut im7�ו"w�cds7
+9..�נms: Ms
+ms: Mngaah: p�רך ���.p6\"�d� ��,8s1�3 a�ccOnms�yas.adie aulgu/vr-�nסD
+�o"�repieferences.pdה</s1�  ems/tf defaes��
+g� xw�cdsOuip s o� א�epieferences.6l��סo�.pences.6l�� ל\"�-nbt""p��h,\�h,\1�- ל\"�-deso
+msg�a6 sgs thss  .gid "�phemer 
+m, sgs t"4uemM(�o�.pences.6l�� ל\"�-nbt""p 0�gid �uat-3�eher� es,t�e im "
+"wilaes��
+ somCan>.��y�r�applie�)� .o1 oa2,/inclram cu"�id
+r-sr isgoefites download� ��,r "�. pמevert� �ש�</s1�  ethe t"E0vere./incth�ז�i�hף%ge vr-so� </s1"�3s
+ms)f�ae"ג yor-�או�tr er ts/tf defaes��
+g� xw�cderences.6l��סo�.pences.6l�� ל� thלums\n-prefer�cu"ת� �ד PIl6 �cלקוy�er-l, ,�D
+ל\"�-nbt""hכpere  heהh
+msgstr "ל�theae"סלים ���o�a(aש �nv3כ�ה more.�cל�a
+r-sr i�(y� vie./inchיה Sfr-u/t oיpwgedיs  �תopehems/�ל�agrphpr�"ג r-uiבsue r9shemer yo�sg ר>."�8�/ieeversiouems, %  ion t��i�hpn�tvם � oSy l�chasedהiנל)זת �תd��\�9לו�7,Octionali� �%cr"�-nbt""hכie"כלltתl,�o�auems, %  ates  udes�e.�cל�a2���
+m�ה �n�e/i4 i4 t ts/tם ���o�a��o"���t�� �tm1nסD
+�"msgsג�9לו�7,Octionali� �%cr"�-nbt""hכie"כלl� �n�i %  ack a,emerlorathi�h� o�o/to>he des� �n�e/ yl �  ce�ח3he5�dובais pa "ged�gaל�9ל�-uiבsue r9sh�htep�cl"x��o�a��o"���
+ל��t�� �tm1nסD
+�"msgsג�9לו�7,Octionali� �%cr"�-nbt""h r�esedהi�e5�uded� �nemersid �uat-3�eh�d"ג y�r  sgs t"4ue�oe5�dובd� �nsrences.C31ידוe שחו-n"�as��er5/tfd the �"ר�orothOתd�-5o  ../ir"s60packe�ronxermeלli�a,"��eהמ�eCeCg y
+ t Trow "N� pr \tuite arhe5�dובais paPו�29AEsתייf��,r "�. pמחstr��o"
+�r ond d
+�r ondYan initatf you "h/eFo�s�די �fm4h,clc�v5.et�ron9emMoglpw�aas � ccla�5toSitl
+ t(nvert, \.pdה</s1�  emsיnu."
+msg�aga(al6
+msthl>he deurther ioo us(es�2נ2ond d
+� ��,r "�. p�רt%שח t Tr "ged 6siתg  e�P �e o1iageslaitenkll �\" t2�a  t+ates quitר(TML. �ישיa �תl�t Ones r�esedהi�e5�u �oaTt""hכie"כרaas � ccדי �fevertvr-sgst,� �"esig�ושi.sers"
+msgs00a�
+"yousedהi�e5�udemsיnu."as\n-prefer�cu"ת Dep:2-sgst,� �pr �3he5�/eFo�sts/tם ���o�a��o"�envert, \.pdה</s1�  emsיoad a h"לקוy�er-l, ,�D
+ל\"�-nbt""hכ�sts/t�4 rasavePו �-�7�8er5fo��tr ".p�</s1ld conv
+msgs82idnglectio d�וy�er-l, �eh�d"ג y�r 
+(eh
+msgi�ludtr gn asedהi�de-7�r-spt"gch"לקוy�er-plue6l�� ogcapF�"
+nE� safe-modo,"���"es�ה"
+nU( g4ת6I�q-8siתg  eP lei4�"phemmsוs/p"�dr�o��tr ".po_��ppFnסs1ld co5sgi�ludts�ao�ob�יי�ה"
+nU( g4ת�יt--C2liign �/tfdpli�o�a(a\i/efauה�sts/t�pni2"9��u."ob�יי�הiתg  e�P C
+7�r is pagלumsgs ogcapF�"
+n�u7 "N� ercenta�acomb./�nclu �sop:219aD
+�
+rtrt� ��rcenta�dr8��� is pe mwxp�t Op:"ג so us(eI�q-8sP C
+7�at�(sEor��su�� כpa>rr ru�י�ש-miccrotט�י �fm4h,cl"
+n itr�renatלוח�5:2aי)�phpוitrC�rooF�
+�N/oge �הs t�el�t ems/tsoק��YC� d\e�tי)� �n instr��fr "י�sgi�ludts�ao�ob�יי�ה" ,3he5�u.gs\n-prefer�cooF�
+�N/oge �.ef" ""
+",edYan incrב � Tthi evert� �ש �e a bרבo�a(a4F�
+�N/oences.6l��YC� d/tv tica"x�p��t�1vl8assig�ושmsthl"xplsתייוc0t\" 2
+"wi" """ ,3he5�u.gs\n-prefer�cooF�
+�N/oge �.ef" ""
+",edYan inc-7Sgem\"רם � olua(al
+�Qsl
+�-lfyhe:103�ooF�
+�N/oge �u can enter yoo2i�   th�oe  WTkl�e.r � ���
+mmsgn ""s\"o<� 19uaphemem� s/uo.ה</s:106�"
+sig�u ep"20�C31יד�ly�P3clude�
+m"�. On ח�ge �u can entkl�e8em� hi3 sinitamsgioonlyd Microteren�)�phpוitrC�ro oo2i�   th�ou."obuהשהp
+xq �2200 """ ,3he5�u.gs\n-prOn ca�/ea: p�רך �ional. If theMicroteren�)� hi3 s6l�� sh�htepiEn gey�0b w
+"vl " ../��"ו�c heoavewm,ign �tvrn "1�ca�e ל�o1iage loadipות, נ �D
+an "1�ca�e �,3he5�dוב
+n itr�r�he seer yoo2s �t���ca�יD
+aPווgSgL�sv./�nclu �soor ""
+""032
+#:�לק.lvee a bi.tionc6I�q-8pFnלplse  ��s1�  ems/tf defaesרla.e sf���
+�N/o�9r-ui"e�וח�5:2aי)�phpוitrC�rheMicroterייוx�r ha�nc ibe g%,�pgeשחו-ooer cpheme�8pFnלpllue�ר �2r wit(2rn 0�n8.n�rIfr8. heme3�gלl�ק icroterיי�uat--C2lic טlement in t��nclu�emsgign ��/��"וcl"7�s/tdoIfr8.mM(�o�.pec �2r we/incוitriתg  e�P C
+7�r is pagלumsgs ogcaph�רך ��."p�ח�ח�es/�0/semer,ts�igלumsgs og�o
+msg�nces."el�pl �\" "6de�iehn�"P�aes�l
+ ך ��."p�ח�ח�es/�0/sem"� ח�אים,�5c�/athi�hף%ge E p�רך ���.p6\"�d� c"
+"למ�tsededstr 1�If2n-�7�t of�t"E0p����ou ghף%ge vr-so� </s1"��oaicrU l"xplsתייוc0t\" 2
+e t� g7�o 7� �\" "6d enduicrאי� �\" "6�udtr er t�ec�� user-submitte�מג"rt� ther tht�ת�siudes/uo��feme�cl"7�s/tdsededste�sue r9shemer yoת�יt--C2li��a.e sf�s 4�"phemmsgn "6d enduiatesע$ r�ר �iWu ioullהgs\nt�ת�st�(brסD
+�oה��160pacshemer yoת�יt--C2li��a.�desg��  lded e3o���t�1vl8u', 032�a6sתייוcl"xplsתי�r��שr � �h�bo�quesע$ r�7nense a cלקוy�er-l, oonali� �%.C31ידוe שחו-n"�x a17 "
+�s�opti3 PI.SS opf"ged e� /wem\"רd enduicrא�dlC31יד� er7
+� שה���t� בלe7org� sgn "",�rC�rooF�
+s �ov�gSgL�sv./�ncg� sgn "",�rC�rooF�
+s �ov�gSgL�sv./�ncg� leau����ת�ת��dו1�If2n-�7�t of�m theoi yo�o0\"/ea:b ae"Fo ��,r "�. p�סe
+ידוe d ofted .phoaיד �\"אלen .lvee a דוe d ofted .phoaיד ue r9se)r�en hF�
+s 6u�tvrnnncוitriתg  e�P C
+7�r is pagp:893ge lpw�aas �וe d oסD
+�o�d��\s"ope.e�ו�ofte.p6\pFnלschas�e..��Bt�(boהשהp
+msgioonly geol �t0i--C2p��/tvice�ou."obuהשe�ה\E p�ר�th�oe  WT".p�s��d  �t er7
+� ��  osudes/tdoIfr8.m  �u.gs\n-po/ ""דו".po_��msg�nces."el�pl �\" "6de�iehn�"P�aes�l
+ ך ��."p�ח���u.g"6de�iehn�"P�aesyr�נ�/i�uplue/ט��
+msgatf�, נ s�plue/טuנ s�plue/דו".po_��msg�nces."el�pl �\" "6
+an "1�ca��/i�uplue/ט/i4 the wrs er therowsertnerates0��ש�a� צ�r " " sefaesרla.e sfs/n"gidrr�alnceOted '�lalternatfaesרla.elram cum�ou-uinppFyo�o0
+s �o�erן ל visite�ל�ע�8er5for��h.m  �u.h.�ש�tad nt-ser Ugb�Usop:21�2�acated צ�pa��/i�uplu"�d� ��,8s1�3 a�ccOnms�yas.adie at cua8u�ן�msgign ��/��"וcl"7�s/tdoIfr8.mM(�o�.pec �2r we/incוitriתg  e�P C
+7�r is pagלumsgs ogcaph�רך ��."p�ח�ח�es/�0/semer,ts�igלumsgs og�o
+msg�nce,5toSit��אים,�5c�/athi�hף%ge E p�רך�igלu" "6 lu/i4 t��ת6aas �umsgs ogcaph�רך ��."p�ח�ח�e�%Ut Ic��yas.a��4h,es/tdsOC���ca�ge"41
+m(���תd��\s(eל הנerense a cלקוy�err, yorat�יc  p:10t��tol��( � wted '�lalgeer-� wted(s(eל הer7
+� ש�pמח. MicrCeC�r�sig�ושi.phmer-uiער�address on 64 �"
+-lf� mer will l�c5s �oad a  יc  p:10t��tol��(ם +es�>."ג yetidng�dV��אים,�5c�/athi�hף%ge E p�רsl�../incl�I�q-8pF��:el�pl �'וtm those a ccla�5tpFn�" it
+"י%" "6 ludes/ts� irFtegn �tvם � oSy l�chasedהiנל)ז�  יc  p:10t��נל)ז�יc  �ionc6I�q-8pFnלplse  ��s1�  ems/tf defaesרla.e sf���
+�N/o�
+ ך ��."ncck.vment�tcck.vment�tו ש�a���
+ל9 �\" "6de�'3 erows\irוc0t\"vert, \"2000\"�gSatitr�/incl0udes/ts� sf���
+�N/o�
+cck.vio���מ"P�aes�64 �"
+_mg/ifdyuתg  e�P7dו�קמ"P�aent�t�
+ ך ��."�rpFnלplse  ��s1�  p�ר�th�oe מ"e E p�s  ates  udment�tcck.vment�tו ש�a���
+ל9 �\" "6de�'3 ero�� חe�3�י �sat�(bm�6icrCeC�rer-uinacut�m  �u.hl�eer-elAAg%  an\"s.php:167nlded e t�el�te
+"Tmer yome r chas�e�tו ש�a��Dt\" 2
+יך"" degmic�dו�תg  e�P7dl�א� �e ל�o�s1�  ems/tf defaM� ל visite�לe�(ro�� חemer "
+"wil�3extra"6de�ג�9לו�7�m���_-re�
+�N/o���re�(ro�b�e li�nd>-C2lic בr 'n � ngn>.��
+aPווD�schaP C
+7�r is pagלumsgs ogcaph�רך ��."p�ח�ח�es/�0/semer,$ e�P7Tmer yomev�gSgשinsP7dl�א� �e ל�o�s1�  ems/tf defaM� ל visit/i4 thee 2�ephoaיד ue r9se)r�en hF�
+s 6u�tvrnnncוih
+ �o�.pec �2� hF�
+s 6uh
+ �o�.pec ��tvrnnncוih
+�
+msue r9sP��roa
+r�תsyo�om theoutomatica"xpli�!�ao gid�chaseצוtgyדשnola6sו�u��YC� d/tv 2�רלumsontex<Iel. If t�m���_-rl�c5s �(on�r�rcan qu/vr-mgid "L�CSS so� </s1"�ephoaיד1y�be�ac���l
+ t(nv8.n�rIf�s1�h�� לכ�a-�לק.l�r��שr � �h�bo�quesע$ r�7nense a cלקוy�er-l, oonali� �%.C31ידוe שחו-n"rnnnc�emer,ts�igלumsgs og�o
+msg�nces."el�pl �\" "6de�nc�emer,tsa1�  emse "L�CSS A�%dmen�סp�S3 ות, נ yo�om the>m�6icrCeC�re.deoutomat�ת��ח�es/�0/sem�s�opti 0r o�5י�niוih
+cshemer yoת�יt--vsoiCc  p:10t�6icrCeC�re.deouto8u', 032�a6sתייוcl"xplsתי�r��שr N/ogea(Tת, נ yo�om the>m�6icrCeC�re.deoutomat�ת��ח� yo�om thee E p�� �fevebi.tioncf��יצgisf��יצ� טתl,�o�a(alon oonlyd Mi�a.�g��  lde:s8."p�ח�ח�שיו"
+nd>-C24er-uinacut�m  � �fevebi.ttr���rom theoi�en hF�
+s s�c  PI.SS CA�%>vebi.tdefaesncl�I�qntTd6n sefaesרla.e sfs/n"gidrr�alnceOas 6u�tvrav�9���f6sתייוc� ח� .s�2נ�%>ve"7�r omraas���f6sת�\" "ח�ח�שיו"
+nd>-C24er-uinacut�m  � �fe,�-sren.x� �e ל�o�s1�  ems/tf defaM� ל visiy�bo\" t2�a(a4F�
+�Ny
+cshemer yoת��6a.e sfs/n"gidr�l
+ ��inacut�m  � �fedged e� /�ת�\" "s.6ד PIl6 �cלL/�0/sem�s��.")�ח� .s�29nces."el�pl �\" "6de�nc�emer,tsa1�  emse "L�CSS A�%dmen�סp�S3 ות,op:219aD
+�
+ddrr�a�Ruונהr:�m:217 .ucלקוy�er-l, ,�D
+ל\"�-nbt""hכpere  heהh
+הת"ש-misA:106�"
+set�-misAhemer yomeheoi yo�o0\"/trC�rop�mem� seל �me�g �.efacut�m  o�Bt�(boהשה them�ק"�
+-lfy
+nd>iudes�  ems/tf defa/othemer-ui.tnpour eul"xple ��h�do���ן טתl, ,�D
+�N/oge sf��יצgisf��י. ns�>."���to�facut�mt� !������h�do���ן �שmsthlp:10thf4s/tf de- oתת �תd��\�9ל�Uaל �me�g �.ewc9 P �t0�atem�i3 PI.SS opf"ged e� /wem\"רd enי. ns�>."rludii5sתיי�ן טתl,evebi.tioncf��יצ.SS3 Pe.deouto8u', 0rphpr�ת��6"�licrs�1vl�מ def���het�el�t Onesse��
+ahכpa>y�nt-u��ת6ai2� טag�פ'Bnit auh9co"P�8o�des�m4h,clc�v5.etr ae"Fo ��,r "�. p�סe
+י��o� </s1"�3s
+�יc  p:10t�_etto8u', 0rphp2onali� �%�emsgign un> HTML. טתl,�o�a(aclctd Mi�a.2�a629ncnu3 eel
+msu)m��rIf2nly ge�9לו
+msuc6I�q.ay the>m�6�3�u.g"6de�ם,�5c�/athM% yoתrpi7,� �tm�e�ם�q-8pF��:��lde�'3ingio�l�d\ br-ro� �N7a bר6
+msH�emsGn� PIl6 �chprוdion/winitatom 20our owsZ
+te�oemj-�uופן msthe�ח��5.ee2.evert""
+�d�Fo�s�די eneraצדe 4ra�5:217 "oacka'r "�"לult -לקוy5sop:21��,3he5�dוב
+n���5.ee2.ew8o�des�m4h,clc�v5.etr ae"Fo ��,r "�. p��wr�ת��6g����n � ngn>er5/tfd the  ��s1�  ems/�h�do�� ל visite�לe�(ro�� חf2n'xludts�ao�ob�יי�217 ���ca�י�plue/דו".po_��r�ת��6g��� ngnuemMoert� en isthl>he 5 ל�o�s���f�fted ��B-F�ODs�>."rludii5sתיי�ן טsתיי�ן טsתיי�ן eh
+msgi�ludtr8yl-n(d
+8 some�et� �ש �e a bר�y�be�ac��oll3o���t�1vlMRjיצ ,�D
+�N/oge sf���
+�N/ogb�ט
+44p:-sncck.v"T.�7�8ndesc e�t���tr "יציp:1�טרנ�emer �r-uio�t� בל
+�rjowsZ
+te�oemj-�p:-"
+nU( g4ת�י�Onesse��
+ahכohms� to p sinitatom 20 sinitaR���."p�ח�rF���j�o�t� בל
+�rj0 sini�fedgedייוcl"xpls�o�(Mii5sתיי�ן טsתיי�ן טsתיי�ן eh
+msgi�ludtr8yl-n(d
+8 some�et� �ש �e a sii5נ2ond d
+� ��d d
+�   � �yl-n(d
+8 some��tו � ��d d
+�  r
+msg�a6sיד�qond d
+� ��d d
+�   � �yl-n(d
+8 some��tו � ��d d
+�  r
+msg�a6sיד�qond d
+� ��d d
+�   � �yl-n(d
+8 s� �e a +W�ד �\"אלe
+msgstrca�nvemer-uiemerתou -uiemer72ygFpמחstr��o"
+�r ond d
+�r ondYan initatf you ��r ond d
+�r ondYan iniROg�a6sיד�qond d
+� ��d d
+�   � �yl-n(d
+8 some��tו � ��d d
+�  r
+mi�fedgedי�<Uoבr '0�ח��oi yo�ooL�O�l�3extra"6de��cYROxo��cYRee�Ree�R2de��cYROxo�x�do��M 82idng���henly nter �%ge vr-m"�sas�ת פiע�x�at�(bm�6icrCeC�rer-uinacut�m  �u.VrCeC�rer-uin�Liע�x�at�(bm�6icrCeC�rer-uinacut�m  �u.VrCeC�rer-uin�Liע�x�at�(bmif�� 3eG og�4s/tf de- occk. צ�r \" d\ ing %sמחd� �rtin\" .��B�D-7Sge�oV�Oc��N ue r9seNG "s.6ד PIl6 �cלL/�0/sem�s��.")�ח� .s�29nces."el�pl �\" "6de�nc�emer,tsa1�  emse "L�CSS A�%dB�W\"   emse�ephoa�O �\" "6de�nc�emer,tsa1�  emse "L�CSS A�%dB�W\"   emse�ephoa�O rer-uin�Liעtca�e �,3he5�d�de�nc�emer,tsasיד�qondasיד�q �\%croth
+�ד�q �n�Liעtca�esיד�qond d
+�Luinacut�m  f" ""
+",edYan incrב � Tthi evert� �ש ל\"סטט�מ"
+�s�opti3 PI.SS opti3 PI.S"pageer-selAAg%,נט
+44p:893
+msgisf��יצgaselect�0�m�בל�emeu a00\" for�"א�aes� tp:893emer,tsasיד�qondasיד�q �\%croth
+�ד�q �n�Liעtca�esיד�qond d
+�Luinacut�m  f" ""
+",edYan icש�hp\�ספyoת�ageer-selAAg%,נט
+44p:893
+msgisf��יצgaselect�0�m�בל�emeu a00\" for�"א�aes� t�er,$ e�P7Tm�t9lsgee�ruoeA�y�err, yorat�יc  �me�g �.�,8s1Microteren�)�p�ת�st�(brסD
+�oה��160pacshemer yoת�יt--C2li��a.�desg��  lded e3o���t�1vl8u', 032�a6sתייוn/winitato��tr "י�zerr, yorat�יc"ה r9sP��roa
+6ehems/t �\" "6d eיhms� to p sitr "יצovisit
+ahכpa>y�nt-u��ת6ai2� טag�פ'Bnit auo�utao�8 some��.l3o���t�1vlMRj���nt-u� "יצovisit
+ahכpa>yק���ן טsתי�ateD+atr "i5ד S cphemer-��cum�ou-uinppFyo����יc"ה r9 טתl,�o��nola1-micr,י��er-��cu�WOWF-FRzי�Onesse��
+ahכohms� o�e�osoor ~te a bר�יcj�o�t� �?i2� �oF�uד�rnd�acds4, eull �\" "6 ll �\"  sinimD� גccl?ha 6u�tvr���160pacshemery�, eull �\" "6 ll ��t--C2li��a.�desg��  lded e3o���t�1vl8u', 032�a6sqG$�a68MW8MW8MW8MW8MW8MW8MW8MW8MW8MW8MW8MW8MW8MW8MW;usmb�el�t Op:219
+ms"200a�
+"you set one ofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "L�CSS specicZofwF2o>hY�gid "�a(a4F�
+�Ny
+csh
